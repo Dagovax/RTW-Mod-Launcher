@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-02-07",
+    "LastUpdated": "2024-02-12",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -269,6 +269,11 @@
 		{
             "ModFolder": "YouTubersTotalWar",
             "ModName": "YouTubers: Total War",
+            "Engine": 0
+        },
+		{
+            "ModFolder": "Israel ModFolder by Dagovax",
+            "ModName": "israel",
             "Engine": 0
         }
     ]
