@@ -265,6 +265,11 @@
             "ModFolder": "avatar",
             "ModName": "Avatar Total War",
             "Engine": 2
+        },
+		{
+            "ModFolder": "YouTubersTotalWar",
+            "ModName": "YouTubers: Total War",
+            "Engine": 0
         }
     ]
 }
