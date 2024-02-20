@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-02-12",
+    "LastUpdated": "2024-02-20",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -274,6 +274,11 @@
 		{
             "ModFolder": "israel",
             "ModName": "Israel ModFolder by Dagovax",
+            "Engine": 0
+        },
+		{
+            "ModFolder": "ROP3",
+            "ModName": "Rise of Persia 3",
             "Engine": 0
         }
     ]
