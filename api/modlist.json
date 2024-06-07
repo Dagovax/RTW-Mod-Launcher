@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-05-30",
+    "LastUpdated": "2024-06-07",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -302,6 +302,12 @@
             "ModName": "The Elders Scroll V: Total War",
             "Engine": 0,
             "Hash": "rdD7hgP9bCTPh4dc2Gas9VM/7LphPJ2zEmEAyXt59iY=OXAohzRcLbyUvx5xD6ZR4w=="
+        },
+        {
+            "ModFolder": "scandza",
+            "ModName": "Scandza ",
+            "Engine": 1,
+            "Hash": "F3SobVfAr4JzCBF68BuSRbQD7Wmhv5x33wuuhdzSyXg=Il71RZzDHO82IG0KIUwInA=="
         }
     ]
 }
