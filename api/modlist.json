@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-06-07",
+    "LastUpdated": "2024-06-08",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -305,9 +305,9 @@
         },
         {
             "ModFolder": "scandza",
-            "ModName": "Scandza ",
+            "ModName": "Scandza Total War",
             "Engine": 1,
-            "Hash": "F3SobVfAr4JzCBF68BuSRbQD7Wmhv5x33wuuhdzSyXg=Il71RZzDHO82IG0KIUwInA=="
+            "Hash": "DHcrXXhLH5dioUh5rQG4tV8dN1p3XJhskN0pqxBH4pU=Qo/oJfQqIOCuod4IU5Wf+w=="
         }
     ]
 }
