@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-06-08",
+    "LastUpdated": "2024-06-09",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -308,6 +308,12 @@
             "ModName": "Scandza Total War",
             "Engine": 1,
             "Hash": "DHcrXXhLH5dioUh5rQG4tV8dN1p3XJhskN0pqxBH4pU=Qo/oJfQqIOCuod4IU5Wf+w=="
+        },
+        {
+            "ModFolder": "hcs",
+            "ModName": "Hegemonia City States",
+            "Engine": 1,
+            "Hash": "Y0og5cx6Cmuk+RbV2Vg0mFxiiYc823F5ISZgBviv4Dw=I0qketX8EISVQ2SehpuR1Q=="
         }
     ]
 }
