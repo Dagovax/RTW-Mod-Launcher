@@ -320,6 +320,12 @@
             "ModName": "Ran no Jidai",
             "Engine": 1,
             "Hash": "d19KYA5AKaLkVc78Sqoj/bPYdaMd20Mp1cN/l/TdHos=z3M5fsAyVfJjtikhAcigIQ=="
+        },
+        {
+            "ModFolder": "IBRR",
+            "ModName": "Invasio Barbarorvm - Rvina Romae",
+            "Engine": 1,
+            "Hash": "0J6EslCZoA7XwVDte7XuoGYr7S4F50mGJt4LlSprlRw=BDhN2cyh9wxVaEP7R5JYdA=="
         }
     ]
 }
