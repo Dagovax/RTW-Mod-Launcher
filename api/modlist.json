@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-06-22",
+    "LastUpdated": "2024-06-30",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -326,6 +326,12 @@
             "ModName": "Invasio Barbarorvm - Rvina Romae",
             "Engine": 1,
             "Hash": "0J6EslCZoA7XwVDte7XuoGYr7S4F50mGJt4LlSprlRw=BDhN2cyh9wxVaEP7R5JYdA=="
+        },
+        {
+            "ModFolder": "Rome - Total War",
+            "ModName": "Ancient Empire Ellyssium",
+            "Engine": 0,
+            "Hash": "u2x33Mz+8d/88jx/I4A6JX80JeB4L+D2jLsqltHBDyU=yrG9iGMITSMDqJLLeB5pBg=="
         }
     ]
 }
