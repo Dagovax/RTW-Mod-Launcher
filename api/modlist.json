@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-06-30",
+    "LastUpdated": "2024-07-02",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -332,6 +332,12 @@
             "ModName": "Ancient Empire Ellyssium",
             "Engine": 0,
             "Hash": "u2x33Mz+8d/88jx/I4A6JX80JeB4L+D2jLsqltHBDyU=yrG9iGMITSMDqJLLeB5pBg=="
+        },
+        {
+            "ModFolder": "RomeMedievalKingdoms",
+            "ModName": "The fonts have been placed in the temporary folder that will open now.Run them to install them into your system.\n\nAfter installation, run this launcher again!",
+            "Engine": 2,
+            "Hash": "ZmUGOfiQjGR89kxyrFRe1F0tZ97mHdkRLbjlJV1CT+4=yr3r2iWDAnddHnbRnUC+3w=="
         }
     ]
 }
