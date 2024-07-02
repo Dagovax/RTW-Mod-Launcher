@@ -338,6 +338,12 @@
             "ModName": "The fonts have been placed in the temporary folder that will open now.Run them to install them into your system.\n\nAfter installation, run this launcher again!",
             "Engine": 2,
             "Hash": "ZmUGOfiQjGR89kxyrFRe1F0tZ97mHdkRLbjlJV1CT+4=yr3r2iWDAnddHnbRnUC+3w=="
+        },
+        {
+            "ModFolder": "jahangir",
+            "ModName": "jahangir",
+            "Engine": 1,
+            "Hash": "36b5R89BmmDDLvY0Fw0oo9zyfPE/9gYR8lCl05QnjH4=daDRvX+qd/O8osLnyvfS7g=="
         }
     ]
 }
