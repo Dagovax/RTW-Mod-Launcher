@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-07-02",
+    "LastUpdated": "2024-07-23",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -344,6 +344,12 @@
             "ModName": "jahangir",
             "Engine": 1,
             "Hash": "36b5R89BmmDDLvY0Fw0oo9zyfPE/9gYR8lCl05QnjH4=daDRvX+qd/O8osLnyvfS7g=="
+        },
+        {
+            "ModFolder": "dg_bcw",
+            "ModName": "Barbarian Fortified Ramparts",
+            "Engine": 0,
+            "Hash": "SI8L4ch1ZQ2lDnInuC01S+3PDF7p8VSjqJ2q23iG+Xg=8bG6ssTEN3ia8a+1sFtqEw=="
         }
     ]
 }
