@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-08-07",
+    "LastUpdated": "2024-08-09",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -350,6 +350,12 @@
             "ModName": "Barbarian Fortified Ramparts",
             "Engine": 0,
             "Hash": "7F/iI1ASTcijwVIbZ6X/wZY+lMX+e7IBuwnqPqFTnyI=xxmbZerOEkfJ0+6e5FPWLA=="
+        },
+        {
+            "ModFolder": "RO",
+            "ModName": "Invasio Barbarorum: Restitutor Orbis Alex Version",
+            "Engine": 4,
+            "Hash": "0X2za2c/Og9b+euwZ571dSCYSatKD39VlRDXIe/sNMo=lhmbZF2GiU4o7MgwF86IHw=="
         }
     ]
 }
