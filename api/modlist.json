@@ -362,6 +362,12 @@
             "ModName": "NMU",
             "Engine": 0,
             "Hash": "45MPnon8PFTqW00mrIrSGFwXxTwB0lSnw6NB7Sc1tno=aWipPKu9YWiW+6M/cZgpWQ=="
+        },
+        {
+            "ModFolder": "nmu",
+            "ModName": "nmu",
+            "Engine": 0,
+            "Hash": "x3pCGVTmDVYKMoGnngNCYHfRE6md/VXYBoCaVU4u1b4=E4Nq6yqCtlGsmkhDnqBlpw=="
         }
     ]
 }
