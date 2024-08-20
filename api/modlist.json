@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-08-17",
+    "LastUpdated": "2024-08-20",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -356,6 +356,12 @@
             "ModName": "Invasio Barbarorum: Restitutor Orbis",
             "Engine": 1,
             "Hash": "I7bkuf46cM6DpXEwf784uajlHF8DYTE33KDMXP7iB1o=4de4Qusy8iuvbKJPHDTvXw=="
+        },
+        {
+            "ModFolder": "pmm",
+            "ModName": "NMU",
+            "Engine": 0,
+            "Hash": "45MPnon8PFTqW00mrIrSGFwXxTwB0lSnw6NB7Sc1tno=aWipPKu9YWiW+6M/cZgpWQ=="
         }
     ]
 }
