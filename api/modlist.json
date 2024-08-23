@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-08-20",
+    "LastUpdated": "2024-08-23",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -368,6 +368,12 @@
             "ModName": "nmu",
             "Engine": 0,
             "Hash": "x3pCGVTmDVYKMoGnngNCYHfRE6md/VXYBoCaVU4u1b4=E4Nq6yqCtlGsmkhDnqBlpw=="
+        },
+        {
+            "ModFolder": "Play_Rome_One_Turn",
+            "ModName": "RTR_Imperium_Surrectum",
+            "Engine": 0,
+            "Hash": "uh9IjKusEGQsE6TalNtyCf+VNB7Qc2DphW4U2wDmgUQ=W1QH+5m5fa6SbERUMMKeSQ=="
         }
     ]
 }
