@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-08-23",
+    "LastUpdated": "2024-09-29",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -374,6 +374,12 @@
             "ModName": "RTR_Imperium_Surrectum",
             "Engine": 0,
             "Hash": "uh9IjKusEGQsE6TalNtyCf+VNB7Qc2DphW4U2wDmgUQ=W1QH+5m5fa6SbERUMMKeSQ=="
+        },
+        {
+            "ModFolder": "Sui Tang Transition 1.73",
+            "ModName": "Fall of The Blue Dragon",
+            "Engine": 0,
+            "Hash": "lhyBwJ24JTfZghAgMAd1kinGRvLz552JM3WtCSG3gr0=3aao48MVHCOlYaGKkGTH5A=="
         }
     ]
 }
