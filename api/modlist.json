@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-09-29",
+    "LastUpdated": "2024-10-07",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -380,6 +380,12 @@
             "ModName": "Sui Tang Transition 1.73",
             "Engine": 0,
             "Hash": "b3I65llCg7NLsKbrd4WX5YLOPjNQXI9Qz5ihACyPMIc=YwBQuoL77D+zLxCXajgs9w=="
+        },
+        {
+            "ModFolder": "map",
+            "ModName": "Rollo",
+            "Engine": 0,
+            "Hash": "9ff9l51NgKbakR6DdT6usy1aPcIvD8KrdwEi4AYgDFw=TJ5lobyM1w0Kf0iMEbvapw=="
         }
     ]
 }
