@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-10-07",
+    "LastUpdated": "2024-10-31",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -386,6 +386,12 @@
             "ModName": "Rollo",
             "Engine": 0,
             "Hash": "9ff9l51NgKbakR6DdT6usy1aPcIvD8KrdwEi4AYgDFw=TJ5lobyM1w0Kf0iMEbvapw=="
+        },
+        {
+            "ModFolder": "Darthmod_RTW",
+            "ModName": "Darthmod_RTW",
+            "Engine": 0,
+            "Hash": "9SI00rFuUUKfAbx6cA0CVlIlZrSENd8odC9ku6wmbVY=bL+PlLUMA00BSz122I3tSA=="
         }
     ]
 }
