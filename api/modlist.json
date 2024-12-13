@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2024-10-31",
+    "LastUpdated": "2024-12-13",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -392,6 +392,12 @@
             "ModName": "Darthmod_RTW",
             "Engine": 0,
             "Hash": "9SI00rFuUUKfAbx6cA0CVlIlZrSENd8odC9ku6wmbVY=bL+PlLUMA00BSz122I3tSA=="
+        },
+        {
+            "ModFolder": "EB",
+            "ModName": "EB",
+            "Engine": 4,
+            "Hash": "JQmKyuf78siGUasBG+RSLfbjyRFlY2f90zxmfSEC0gQ=skx2ccyKfJUfIRvxVCJZSg=="
         }
     ]
 }
