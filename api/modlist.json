@@ -404,6 +404,12 @@
             "ModName": "Aristeia Total War",
             "Engine": 4,
             "Hash": "igZ1LBSJpd0/LRAlq7IVErRZ9jQHJ87lq1XL0YXdqDs=VLE67BkYRLW7rSABmGBP+Q=="
+        },
+        {
+            "ModFolder": "77BC",
+            "ModName": "FRRE 77BC: Twilight of the Republic",
+            "Engine": 1,
+            "Hash": "lIcKEu61fxp3yrERhWbc3Kvg6jtY5OCq6Xc2C+yO8MY=miKxJ+MOzR2t2oScMQt5fA=="
         }
     ]
 }
