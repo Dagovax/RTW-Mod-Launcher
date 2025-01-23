@@ -313,7 +313,7 @@
             "ModFolder": "hcs",
             "ModName": "Hegemonia City States",
             "Engine": 1,
-            "Hash": "SxYf0n8OagvJ0DCbo83VroZsZuI/NsMrmiUcH4KYMrE=z02eSHVxaIvZuAi+Cq1fOg=="
+            "Hash": "bl/zUwua0p6lk73IS51OR4t6xnjPc8UlCRh3TL2XZso=4ghAXGoKyEy9vn3XwHQfoQ=="
         },
         {
             "ModFolder": "shogun2",
@@ -404,12 +404,6 @@
             "ModName": "Aristeia Total War",
             "Engine": 4,
             "Hash": "igZ1LBSJpd0/LRAlq7IVErRZ9jQHJ87lq1XL0YXdqDs=VLE67BkYRLW7rSABmGBP+Q=="
-        },
-        {
-            "ModFolder": "77BC",
-            "ModName": "FRRE 77BC: Twilight of the Republic",
-            "Engine": 1,
-            "Hash": "lIcKEu61fxp3yrERhWbc3Kvg6jtY5OCq6Xc2C+yO8MY=miKxJ+MOzR2t2oScMQt5fA=="
         }
     ]
 }
