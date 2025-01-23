@@ -398,6 +398,12 @@
             "ModName": "Europa Barbarorum",
             "Engine": 4,
             "Hash": "yU2VYmgCjY1ovF2eIctN91Z4VKR+PbhAHGCNW8kV7WA=QnmvPKf3QCVohCZKWpQEbA=="
+        },
+        {
+            "ModFolder": "aristeia",
+            "ModName": "Aristeia Total War",
+            "Engine": 4,
+            "Hash": "igZ1LBSJpd0/LRAlq7IVErRZ9jQHJ87lq1XL0YXdqDs=VLE67BkYRLW7rSABmGBP+Q=="
         }
     ]
 }
