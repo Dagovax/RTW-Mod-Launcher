@@ -404,6 +404,12 @@
             "ModName": "Aristeia Total War",
             "Engine": 4,
             "Hash": "sFudEdvQTY/4br2hvBXpF4AP8F2NJZAusnD/flBl0OA=sw/k3hE8/fv/2eoB4N8TQg=="
+        },
+        {
+            "ModFolder": "DTW",
+            "ModName": "Diadochi Total War",
+            "Engine": 2,
+            "Hash": "cRFbuH88Xx5jRXz8ow1yYJlymNQ4uIZSDRgKy45YI3k=WszNNq7BIs56nEiQmw6rcg=="
         }
     ]
 }
