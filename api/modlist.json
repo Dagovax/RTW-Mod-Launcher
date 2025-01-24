@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-01-23",
+    "LastUpdated": "2025-01-24",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -408,8 +408,8 @@
         {
             "ModFolder": "DTW",
             "ModName": "Diadochi Total War",
-            "Engine": 3,
-            "Hash": "cRFbuH88Xx5jRXz8ow1yYJlymNQ4uIZSDRgKy45YI3k=WszNNq7BIs56nEiQmw6rcg=="
+            "Engine": 0,
+            "Hash": "QtsWpGjcykeSzouTSwe/uPCfex+M8ZIox0o2T13/4ho=j7UqT0fBQ6q1Nazca0GJAA=="
         }
     ]
 }
