@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-01-24",
+    "LastUpdated": "2025-01-25",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -413,9 +413,9 @@
         },
         {
             "ModFolder": "77BC",
-            "ModName": "FRRE 77BC: Twilight of the Republic",
+            "ModName": "77 BC: The Twilight of the Republic",
             "Engine": 1,
-            "Hash": "CCTDD7IrNCqlSUf+A5G8AZcH26Z+ViDitFJxQoDklCo=DcT9xgxow6rWIYFIRDNcCg=="
+            "Hash": "Oko3dLbCcsKflYIIo3gPcpK4Jhudv60z9Quop1SX27I=bOc5ccyyoBJlVu1jq0/4vQ=="
         }
     ]
 }
