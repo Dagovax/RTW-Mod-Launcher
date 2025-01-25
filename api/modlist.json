@@ -122,13 +122,9 @@
         },
         {
             "ModFolder": "rtrpe",
-            "ModName": "Rome Total Realism Platinum Edition 1.9",
-            "Engine": 1
-        },
-        {
-            "ModFolder": "rtrpe",
-            "ModName": "Rome Total Realism Platinum Edition 2.0",
-            "Engine": 4
+            "ModName": "Rome Total Realism Platinum Edition",
+            "Engine": 3,
+            "Hash": "6hhpv+Qjj6RezzswYlL6Lm2quSZp6RzuUaPdPUg6nBc=iQ7YtF0JLqQSPy6IRikPvw=="
         },
         {
             "ModFolder": "ExRM",
