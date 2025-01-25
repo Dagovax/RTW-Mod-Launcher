@@ -416,6 +416,12 @@
             "ModName": "77 BC: The Twilight of the Republic",
             "Engine": 1,
             "Hash": "Oko3dLbCcsKflYIIo3gPcpK4Jhudv60z9Quop1SX27I=bOc5ccyyoBJlVu1jq0/4vQ=="
+        },
+        {
+            "ModFolder": "AUC",
+            "ModName": "Ab Urbe Condita VI",
+            "Engine": 4,
+            "Hash": "aVobBUrfRscoIXvoG2kbf79Qo6MFxTG/80B/sQwYwGo=CfBXHR/eipQNlgXGb5g/Zw=="
         }
     ]
 }
