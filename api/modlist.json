@@ -418,6 +418,12 @@
             "ModName": "Ab Urbe Condita VI",
             "Engine": 4,
             "Hash": "aVobBUrfRscoIXvoG2kbf79Qo6MFxTG/80B/sQwYwGo=CfBXHR/eipQNlgXGb5g/Zw=="
+        },
+        {
+            "ModFolder": "halo",
+            "ModName": "Halo: Total War",
+            "Engine": 2,
+            "Hash": "DE8aeJv1p5IvJdLd4beZRBbOga2kaP0Aq2bMqpiqC9c=7vAAaPDINrQY5+vX9ET5RQ=="
         }
     ]
 }
