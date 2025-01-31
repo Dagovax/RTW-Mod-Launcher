@@ -426,10 +426,16 @@
             "Hash": "DE8aeJv1p5IvJdLd4beZRBbOga2kaP0Aq2bMqpiqC9c=7vAAaPDINrQY5+vX9ET5RQ=="
         },
         {
-            "ModFolder": "RG",
-            "ModName": "Res Gestae Total War",
+            "ModFolder": "Augustus",
+            "ModName": "Augustus Total War",
             "Engine": 0,
-            "Hash": "NVjhw01/+FUf4MWM4E7jzJPNKxw2nEpg2Aq0AYb4QLQ=UZcj60MVHQ0RD1rj0hFRMw=="
+            "Hash": "lSPTcUVcMfVgfcrQqAzsIsE+GDluyupddpjkwbqmA/w=tlTE9EfDOqW7DPsHsC7VxQ=="
+        },
+        {
+            "ModFolder": "MATWII",
+            "ModName": "Megas Alexandros",
+            "Engine": 2,
+            "Hash": "YrcixoqyLVgo0yNc/vv9RVzPNZ1GymfedXjblG8DKM8=FJXW3kvIJYhzLDgUYaQrLA=="
         }
     ]
 }
