@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-01-26",
+    "LastUpdated": "2025-01-31",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -424,6 +424,12 @@
             "ModName": "Halo: Total War",
             "Engine": 2,
             "Hash": "DE8aeJv1p5IvJdLd4beZRBbOga2kaP0Aq2bMqpiqC9c=7vAAaPDINrQY5+vX9ET5RQ=="
+        },
+        {
+            "ModFolder": "Augustus",
+            "ModName": "Augustus Total War",
+            "Engine": 0,
+            "Hash": "lSPTcUVcMfVgfcrQqAzsIsE+GDluyupddpjkwbqmA/w=tlTE9EfDOqW7DPsHsC7VxQ=="
         }
     ]
 }
