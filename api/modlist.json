@@ -454,6 +454,12 @@
             "ModName": "Classical Greece: Hybris Total War",
             "Engine": 1,
             "Hash": "GC1yTCAK6TV6xjGkrbeMsv9Pg2CJNwgVJ2k1VKwTgUo=AaHh5zmBdO4mGNbk1VuuGg=="
+        },
+        {
+            "ModFolder": "HAP",
+            "ModName": "Hannibal ad Portas",
+            "Engine": 2,
+            "Hash": "FbLBtWItHdLDsZsugPwsyY9rgNp8sjV5MikiM4+HJpc=hh7WniHH/ePIuEq71oOYQg=="
         }
     ]
 }
