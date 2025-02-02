@@ -460,6 +460,12 @@
             "ModName": "Hannibal ad Portas",
             "Engine": 2,
             "Hash": "FbLBtWItHdLDsZsugPwsyY9rgNp8sjV5MikiM4+HJpc=hh7WniHH/ePIuEq71oOYQg=="
+        },
+        {
+            "ModFolder": "ROP",
+            "ModName": "The Rise of Persia TW",
+            "Engine": 0,
+            "Hash": "+uE4nbuqZESBnyo8Kb1X7ZVUDrbF9z1lYcTHqKUMc3E=jne5IywuhxKLUHJWNqvA8A=="
         }
     ]
 }
