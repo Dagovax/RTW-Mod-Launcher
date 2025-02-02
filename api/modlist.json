@@ -107,8 +107,9 @@
         },
         {
             "ModFolder": "RTR",
-            "ModName": "Rome Total Realism 8 4.0.2",
-            "Engine": 2
+            "ModName": "Rome Total Realism Project 8",
+            "Engine": 4,
+            "Hash": "6hhpv+Qjj6RezzswYlL6Lm2quSZp6RzuUaPdPUg6nBc=iQ7YtF0JLqQSPy6IRikPvw=="
         },
         {
             "ModFolder": "unitsftw1942melkor",
