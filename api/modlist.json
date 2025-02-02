@@ -466,6 +466,12 @@
             "ModName": "The Rise of Persia TW",
             "Engine": 0,
             "Hash": "+uE4nbuqZESBnyo8Kb1X7ZVUDrbF9z1lYcTHqKUMc3E=jne5IywuhxKLUHJWNqvA8A=="
+        },
+        {
+            "ModFolder": "catw05",
+            "ModName": "CATW Samniti Bello",
+            "Engine": 4,
+            "Hash": "GWPojEb2rNWUip91uC6mXkrWbxUpqM9wVHJKw45PFno=tZm9BvEg821RHV+H+5YqVQ=="
         }
     ]
 }
