@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-01-31",
+    "LastUpdated": "2025-02-02",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -448,6 +448,12 @@
             "ModName": "Res Gestae Total War",
             "Engine": 0,
             "Hash": "gpls5m608GgNlIm/W6dKj6F4na/8QvofrJ7iCIXDZDs=HrGvrSsXoBif+Dwi+NSw0Q=="
+        },
+        {
+            "ModFolder": "Tetrarchy",
+            "ModName": "311 AD: The Tetrarchy",
+            "Engine": 1,
+            "Hash": "XtOgoHy5F2RblTCE/udIPujt0MsxuMYLpq2YCLvIL/c=ZIYufgt8rMan8Zo+AfJnvQ=="
         }
     ]
 }
