@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-02-02",
+    "LastUpdated": "2025-02-06",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -470,9 +470,9 @@
         },
         {
             "ModFolder": "catw05",
-            "ModName": "CATW Samniti Bello",
+            "ModName": "CATW Samnite Wars",
             "Engine": 4,
-            "Hash": "GWPojEb2rNWUip91uC6mXkrWbxUpqM9wVHJKw45PFno=tZm9BvEg821RHV+H+5YqVQ=="
+            "Hash": "LsS3aWfWxFWN9y/5oC6QhOrPlzb+XjzQvGAyVcVZMCI=FGpxmDsUIT0ZDKaDvlqWrQ=="
         }
     ]
 }
