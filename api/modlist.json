@@ -470,9 +470,15 @@
         },
         {
             "ModFolder": "catw05",
-            "ModName": "CATW Samniti Bello",
+            "ModName": "CATW Samnite Wars",
             "Engine": 4,
-            "Hash": "k9edFVrqxnqDzcInd7KKfRYDyvggckZaFHphnHp4Wkw=u0z9PK/Ja4Em+7jJkNHguA=="
+            "Hash": "LsS3aWfWxFWN9y/5oC6QhOrPlzb+XjzQvGAyVcVZMCI=FGpxmDsUIT0ZDKaDvlqWrQ=="
+        },
+        {
+            "ModFolder": "civ",
+            "ModName": "Dust and Wind TW",
+            "Engine": 4,
+            "Hash": "ApUwxEgoUQwPv4THtQUfDWlvNkLGBjRGJ/UZba5w50Y=80vycqRSw4UCAHrnqzfD0A=="
         }
     ]
 }
