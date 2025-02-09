@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-02-06",
+    "LastUpdated": "2025-02-09",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -479,6 +479,12 @@
             "ModName": "Dust and Wind TW",
             "Engine": 4,
             "Hash": "ApUwxEgoUQwPv4THtQUfDWlvNkLGBjRGJ/UZba5w50Y=80vycqRSw4UCAHrnqzfD0A=="
+        },
+        {
+            "ModFolder": "Tetrarchy",
+            "ModName": "311 AD: The Tetrarchy",
+            "Engine": 1,
+            "Hash": "fAj+S4Wdtcp3Wn5By3ipULsddzskVzTQ/lno1ZcX1hI=l8+nz52K4MzSdoB/rjS0Cw=="
         }
     ]
 }
