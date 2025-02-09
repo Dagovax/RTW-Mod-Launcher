@@ -491,6 +491,12 @@
             "ModName": "Barbarian Invasions: Fall of Rome",
             "Engine": 1,
             "Hash": "dc9eTHN4LHGnnaG4ciDnImzX9zlETJxHCO+28eV/srA=qOnBs74HtTCIPBO8XJToow=="
+        },
+        {
+            "ModFolder": "SB",
+            "ModName": "Stormbringer Gigantus",
+            "Engine": 1,
+            "Hash": "sj9CgvWOlKWg2L8o73sP+tkBFVTMAYgta7iTQQWzV4o=l9ox6PXfjKehbUSWc0CVsQ=="
         }
     ]
 }
