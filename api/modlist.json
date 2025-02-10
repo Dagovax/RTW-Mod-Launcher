@@ -527,6 +527,12 @@
             "ModName": "IB - Somnivm Apostatae Ivliani",
             "Engine": 1,
             "Hash": "iKH4svcQeaC089SiCGoyuNelfLAdVBI3W8dgJRtfip4=TkxRhElptXJssTQY5BNW9Q=="
+        },
+        {
+            "ModFolder": "VI2",
+            "ModName": "vikings",
+            "Engine": 1,
+            "Hash": "Tvt9LVE4a4jaG8ldAQx6Pt6JzaSgAwNCi1kWYufLo5c=wCGx5rwrEmVvEfgk8j6tkA=="
         }
     ]
 }
