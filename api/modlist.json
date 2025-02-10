@@ -503,6 +503,12 @@
             "ModName": "Invasio Barbarorvm: Flagellvm Dei",
             "Engine": 1,
             "Hash": "r64WggvDQBK8bEA+8dItAymZ7i/qyuQNDj5kcgueiWA=cXUdbWIiXgBYpUo+kP5WPQ=="
+        },
+        {
+            "ModFolder": "catw08",
+            "ModName": "CATW Mithradates",
+            "Engine": 4,
+            "Hash": "OLpu6v003Rmwq8JpVuONJYcF7/EpqYWDPyuGAJBypUg=GhoeDMbIfI7CDR/NDSoOnA=="
         }
     ]
 }
