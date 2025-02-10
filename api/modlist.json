@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-02-09",
+    "LastUpdated": "2025-02-10",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -497,6 +497,12 @@
             "ModName": "3rd Century AD: Imperial Crisis III",
             "Engine": 1,
             "Hash": "eUicQOP4z30K3383rK1SxT5xA7WSZvuZeQHrd0xmDhA=PFnDXGEd0a9z5J1679Ta7w=="
+        },
+        {
+            "ModFolder": "ibfd",
+            "ModName": "Invasio Barbarorvm: Flagellvm Dei",
+            "Engine": 1,
+            "Hash": "r64WggvDQBK8bEA+8dItAymZ7i/qyuQNDj5kcgueiWA=cXUdbWIiXgBYpUo+kP5WPQ=="
         }
     ]
 }
