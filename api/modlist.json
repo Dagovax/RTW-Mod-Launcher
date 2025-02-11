@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-02-10",
+    "LastUpdated": "2025-02-11",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -533,6 +533,12 @@
             "ModName": "vikings",
             "Engine": 1,
             "Hash": "Tvt9LVE4a4jaG8ldAQx6Pt6JzaSgAwNCi1kWYufLo5c=wCGx5rwrEmVvEfgk8j6tkA=="
+        },
+        {
+            "ModFolder": "bi-vanilla-mod",
+            "ModName": "Barbarian Invasions: Vanilla Mod",
+            "Engine": 1,
+            "Hash": "cXgDqTbjXIcdq6HWXn0ELlAuGvCNBgHzsMJk4joDIKE=0ZRT4OhoLXrG+oLPugn8Rg=="
         }
     ]
 }
