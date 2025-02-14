@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-02-13",
+    "LastUpdated": "2025-02-14",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -518,9 +518,9 @@
         },
         {
             "ModFolder": "SB",
-            "ModName": "Stormbringer Gigantus",
+            "ModName": "Scorched Ground Mod: Stormbringer",
             "Engine": 1,
-            "Hash": "nt1qq08kybyhlrdVeVCR6WI7+Z3n6MPUQjRLDGSbsNA=SElnsZC37v4hpsePV2aaYw=="
+            "Hash": "hCNE2bt4Kz9Noq6mFNudziM3y6MgO5XOBcUg9BzmFqo=nNbG7D5zEPMdk37311YRzg=="
         },
         {
             "ModFolder": "SAI",
