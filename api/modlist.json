@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-02-14",
+    "LastUpdated": "2025-02-25",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -539,6 +539,12 @@
             "ModName": "Barbarian Invasions: Vanilla Mod",
             "Engine": 1,
             "Hash": "cXgDqTbjXIcdq6HWXn0ELlAuGvCNBgHzsMJk4joDIKE=0ZRT4OhoLXrG+oLPugn8Rg=="
+        },
+        {
+            "ModFolder": "FO",
+            "ModName": "Rome Total Realism: Fortuna Orbis",
+            "Engine": 1,
+            "Hash": "MN5wZT5CSt3froO5HEUQqlEnDzGWj7Q09wLYu8zy/FY=ychf0gvFkHWuwDPWLujCRA=="
         }
     ]
 }
