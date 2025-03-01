@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-02-25",
+    "LastUpdated": "2025-03-01",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -545,6 +545,12 @@
             "ModName": "Rome Total Realism: Fortuna Orbis",
             "Engine": 1,
             "Hash": "MN5wZT5CSt3froO5HEUQqlEnDzGWj7Q09wLYu8zy/FY=ychf0gvFkHWuwDPWLujCRA=="
+        },
+        {
+            "ModFolder": "napoleonic",
+            "ModName": "NAPOLEONIC",
+            "Engine": 0,
+            "Hash": "BvodqLtKUDLZe9grkIbCPwCnayTEJN+AwEBQ7qyL7vs=m3LtT+fkbL6YukcuCqsYKQ=="
         }
     ]
 }
