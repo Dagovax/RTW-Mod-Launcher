@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-03-01",
+    "LastUpdated": "2025-03-04",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -551,6 +551,12 @@
             "ModName": "NAPOLEONIC",
             "Engine": 0,
             "Hash": "BvodqLtKUDLZe9grkIbCPwCnayTEJN+AwEBQ7qyL7vs=m3LtT+fkbL6YukcuCqsYKQ=="
+        },
+        {
+            "ModFolder": "Taiping Rebellion",
+            "ModName": "Taiping Rebellion",
+            "Engine": 4,
+            "Hash": "0J9GnnzyPcxx/Ly4CgYdSio8wZmTG1WxH1IgUDH8Izk=/3J56zh+OWOXkfSifB4CEg=="
         }
     ]
 }
