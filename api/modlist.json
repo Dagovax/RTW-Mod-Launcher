@@ -587,6 +587,12 @@
             "ModName": "Reign of Antiochus",
             "Engine": 4,
             "Hash": "wI2C8lcm1aoiLLgTB7nNBvWZXboc/SrF5d5jcGPEeGE=OByCfm2W2gkHTeiR8g2Tnw=="
+        },
+        {
+            "ModFolder": "Conquests_of_Trajan",
+            "ModName": "Conquests of Trajan",
+            "Engine": 0,
+            "Hash": "HsHZF4MbBmKdtfI5lLDO2r6psRBZVlkk2KRYydBmQ7U=VnwIboAPFsbTplS/QEGOAw=="
         }
     ]
 }
