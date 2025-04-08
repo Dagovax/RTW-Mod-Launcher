@@ -553,10 +553,16 @@
             "Hash": "scQPWo01oujGbyGGFz1wTEONSlNCXNEmEn5pk2JTLss=y586ftf/rRXBrjf9V79iAQ=="
         },
         {
-            "ModFolder": "rio",
-            "ModName": "Invasio Barbarorum: Ultra Gloriam Romae",
+            "ModFolder": "TER",
+            "ModName": "Tardo Romano Impero",
             "Engine": 1,
-            "Hash": "6+KfwTvTYRk9ZRk+KJZL+U4R4WWYbEETKVm62XRzohE=BXp0p68lLuNJYDeZquDAcA=="
+            "Hash": "EznuSBAC0AhAougav+sTASZy6iQiAVZPyAczmiOe+e4=NyVwgpV+UuEqGwXADVQeZA=="
+        },
+        {
+            "ModFolder": "IC_Lite",
+            "ModName": "Imperial Crisis Lite",
+            "Engine": 1,
+            "Hash": "wCNaIpOZhQSfNIWoRkYbdt6ToMY49JWsDMb6KyKXWwc=hgPJHdB6/X/9dXO/pwoNZQ=="
         }
     ]
 }
