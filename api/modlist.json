@@ -9,7 +9,7 @@
         },
         {
             "ModFolder": "xc",
-            "ModName": "Extended Cultures (4)",
+            "ModName": "Extended Cultures IV",
             "Engine": 3
         },
         {
@@ -87,12 +87,12 @@
         },
         {
             "ModFolder": "NEW",
-            "ModName": "Nation Empire War",
+            "ModName": "Nation. Empire. War",
             "Engine": 1
         },
         {
             "ModFolder": "SYW",
-            "ModName": "SYW Mod",
+            "ModName": "Seven Years War",
             "Engine": 4
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "ModFolder": "300WOS",
-            "ModName": "Warlords of Sparta",
+            "ModName": "300 Warlords of Sparta",
             "Engine": 2
         },
         {
@@ -320,7 +320,7 @@
         },
         {
             "ModFolder": "IBRR",
-            "ModName": "Invasio Barbarorvm: Rvina Romae",
+            "ModName": "Invasio Barbarorum: Rvina Romae",
             "Engine": 1,
             "Hash": "2EF8uxceFj5WOkkaPogHapyT/leZm9DoDLK7qobHvqg=zF0EBTjz5djtxIIJCuKTqw=="
         },
@@ -338,7 +338,7 @@
         },
         {
             "ModFolder": "jahangir",
-            "ModName": "jahangir",
+            "ModName": "Jahangir",
             "Engine": 1,
             "Hash": "36b5R89BmmDDLvY0Fw0oo9zyfPE/9gYR8lCl05QnjH4=daDRvX+qd/O8osLnyvfS7g=="
         },
@@ -355,38 +355,8 @@
             "Hash": "I7bkuf46cM6DpXEwf784uajlHF8DYTE33KDMXP7iB1o=4de4Qusy8iuvbKJPHDTvXw=="
         },
         {
-            "ModFolder": "pmm",
-            "ModName": "NMU",
-            "Engine": 0,
-            "Hash": "45MPnon8PFTqW00mrIrSGFwXxTwB0lSnw6NB7Sc1tno=aWipPKu9YWiW+6M/cZgpWQ=="
-        },
-        {
-            "ModFolder": "nmu",
-            "ModName": "nmu",
-            "Engine": 0,
-            "Hash": "x3pCGVTmDVYKMoGnngNCYHfRE6md/VXYBoCaVU4u1b4=E4Nq6yqCtlGsmkhDnqBlpw=="
-        },
-        {
-            "ModFolder": "Play_Rome_One_Turn",
-            "ModName": "RTR_Imperium_Surrectum",
-            "Engine": 0,
-            "Hash": "uh9IjKusEGQsE6TalNtyCf+VNB7Qc2DphW4U2wDmgUQ=W1QH+5m5fa6SbERUMMKeSQ=="
-        },
-        {
-            "ModFolder": "Sui Tang Transition 1.73",
-            "ModName": "Sui Tang Transition 1.73",
-            "Engine": 0,
-            "Hash": "b3I65llCg7NLsKbrd4WX5YLOPjNQXI9Qz5ihACyPMIc=YwBQuoL77D+zLxCXajgs9w=="
-        },
-        {
-            "ModFolder": "map",
-            "ModName": "Rollo",
-            "Engine": 0,
-            "Hash": "9ff9l51NgKbakR6DdT6usy1aPcIvD8KrdwEi4AYgDFw=TJ5lobyM1w0Kf0iMEbvapw=="
-        },
-        {
             "ModFolder": "Darthmod_RTW",
-            "ModName": "Darthmod_RTW",
+            "ModName": "Darthmod Rome",
             "Engine": 0,
             "Hash": "9SI00rFuUUKfAbx6cA0CVlIlZrSENd8odC9ku6wmbVY=bL+PlLUMA00BSz122I3tSA=="
         },
@@ -464,7 +434,7 @@
         },
         {
             "ModFolder": "ROP",
-            "ModName": "The Rise of Persia TW",
+            "ModName": "Rise of Persia",
             "Engine": 0,
             "Hash": "+uE4nbuqZESBnyo8Kb1X7ZVUDrbF9z1lYcTHqKUMc3E=jne5IywuhxKLUHJWNqvA8A=="
         },
@@ -488,19 +458,19 @@
         },
         {
             "ModFolder": "Fall_of_Rome",
-            "ModName": "Barbarian Invasion: The Fall of Rome",
+            "ModName": "Fall of Rome",
             "Engine": 1,
             "Hash": "+aRU9BvXS8r9eBfcsl0tcnRpun+kMYdWxlCoral6ab8=ZXRSCHDaMucN2tjNXBwtPA=="
         },
         {
             "ModFolder": "IC",
-            "ModName": "3rd Century AD: Imperial Crisis III",
+            "ModName": "Imperial Crisis III",
             "Engine": 1,
             "Hash": "eUicQOP4z30K3383rK1SxT5xA7WSZvuZeQHrd0xmDhA=PFnDXGEd0a9z5J1679Ta7w=="
         },
         {
             "ModFolder": "ibfd",
-            "ModName": "Invasio Barbarorvm: Flagellvm Dei",
+            "ModName": "Invasio Barbarorum: Flagellvm Dei",
             "Engine": 1,
             "Hash": "r64WggvDQBK8bEA+8dItAymZ7i/qyuQNDj5kcgueiWA=cXUdbWIiXgBYpUo+kP5WPQ=="
         },
@@ -518,25 +488,25 @@
         },
         {
             "ModFolder": "SB",
-            "ModName": "Scorched Ground Mod: Stormbringer",
+            "ModName": "Scorched Ground: Stormbringer",
             "Engine": 1,
             "Hash": "hCNE2bt4Kz9Noq6mFNudziM3y6MgO5XOBcUg9BzmFqo=nNbG7D5zEPMdk37311YRzg=="
         },
         {
             "ModFolder": "SAI",
-            "ModName": "Invasio Barbarorvm: Somnivm Ivliani",
+            "ModName": "Invasio Barbarorum: Somnivm Apostatae Ivliani",
             "Engine": 1,
             "Hash": "L6XKSpXLcalNpe4UtqNxwRzcfsc0DyU9NaUmVhqZLTI=EZ/fIqm15OsDzB3T5zxW5A=="
         },
         {
             "ModFolder": "VI2",
-            "ModName": "vikings",
+            "ModName": "Viking Invasion II",
             "Engine": 1,
             "Hash": "Tvt9LVE4a4jaG8ldAQx6Pt6JzaSgAwNCi1kWYufLo5c=wCGx5rwrEmVvEfgk8j6tkA=="
         },
         {
             "ModFolder": "bi-vanilla-mod",
-            "ModName": "Barbarian Invasions: Vanilla Mod",
+            "ModName": "BI Vanilla Mod",
             "Engine": 1,
             "Hash": "cXgDqTbjXIcdq6HWXn0ELlAuGvCNBgHzsMJk4joDIKE=0ZRT4OhoLXrG+oLPugn8Rg=="
         },
@@ -548,15 +518,9 @@
         },
         {
             "ModFolder": "napoleonic",
-            "ModName": "NAPOLEONIC",
+            "ModName": "Napoleonic Total War II",
             "Engine": 0,
             "Hash": "BvodqLtKUDLZe9grkIbCPwCnayTEJN+AwEBQ7qyL7vs=m3LtT+fkbL6YukcuCqsYKQ=="
-        },
-        {
-            "ModFolder": "Taiping Rebellion",
-            "ModName": "Taiping Rebellion",
-            "Engine": 4,
-            "Hash": "0J9GnnzyPcxx/Ly4CgYdSio8wZmTG1WxH1IgUDH8Izk=/3J56zh+OWOXkfSifB4CEg=="
         }
     ]
 }
