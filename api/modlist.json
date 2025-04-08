@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-03-27",
+    "LastUpdated": "2025-04-08",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -521,6 +521,12 @@
             "ModName": "Napoleonic Total War II",
             "Engine": 0,
             "Hash": "BvodqLtKUDLZe9grkIbCPwCnayTEJN+AwEBQ7qyL7vs=m3LtT+fkbL6YukcuCqsYKQ=="
+        },
+        {
+            "ModFolder": "Cossacks",
+            "ModName": "Cossacks Total War",
+            "Engine": 4,
+            "Hash": "QfrVQrLDvWy9jaX0LVnsxD590TIF5qpyyqITOmFPXY0=ZF9caKUv/3WQ1IouGaADkg=="
         }
     ]
 }
