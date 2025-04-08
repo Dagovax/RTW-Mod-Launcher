@@ -533,6 +533,12 @@
             "ModName": "Fine-Tuned Mod",
             "Engine": 4,
             "Hash": "KozGZTa7RZ8ddITpwifvbHGDFGfU3+4qc3uDqB2wFfU=/AKWYB8dOsdqCcNBNyRV5Q=="
+        },
+        {
+            "ModFolder": "IBIC",
+            "ModName": "Invasio Barbarorum: Imperivm Constantinii",
+            "Engine": 1,
+            "Hash": "DRZK0qzs06R/m7HHlRww/pZlOSPIhizfVuLq5k7d1mk=SwvLv0Fhh0Yju1Pn+KSFpA=="
         }
     ]
 }
