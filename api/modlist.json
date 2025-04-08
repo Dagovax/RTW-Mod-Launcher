@@ -575,6 +575,12 @@
             "ModName": "BI Community Remaster (Minimalism version)",
             "Engine": 1,
             "Hash": "M+1EdbeLud5Gai4Cjq+NWlLeuKLoyFHQfSGyuhYljKo=mv1HodW++185/TB1Eqg2LA=="
+        },
+        {
+            "ModFolder": "Community_Remaster",
+            "ModName": "BI Community Remaster (Base version)",
+            "Engine": 1,
+            "Hash": "i/QWFLZ03uwtUr+4K1N8FuvM6Ps66j1xmMLgrAADO3c=SVvIuVYTl73X3meOOkeReA=="
         }
     ]
 }
