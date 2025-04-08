@@ -551,6 +551,12 @@
             "ModName": "Viking Total War",
             "Engine": 1,
             "Hash": "scQPWo01oujGbyGGFz1wTEONSlNCXNEmEn5pk2JTLss=y586ftf/rRXBrjf9V79iAQ=="
+        },
+        {
+            "ModFolder": "TER",
+            "ModName": "Tardo Romano Impero",
+            "Engine": 1,
+            "Hash": "EznuSBAC0AhAougav+sTASZy6iQiAVZPyAczmiOe+e4=NyVwgpV+UuEqGwXADVQeZA=="
         }
     ]
 }
