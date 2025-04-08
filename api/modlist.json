@@ -569,6 +569,12 @@
             "ModName": "Conquista Total War",
             "Engine": 1,
             "Hash": "elkSMABchfDOINtXJbsnbbNvIjsHFwnafZXtro9MMrE=rf43psd74NvbNFk7Y8xBcQ=="
+        },
+        {
+            "ModFolder": "bi-minimalism",
+            "ModName": "BI Community Remaster (Minimalism version)",
+            "Engine": 1,
+            "Hash": "M+1EdbeLud5Gai4Cjq+NWlLeuKLoyFHQfSGyuhYljKo=mv1HodW++185/TB1Eqg2LA=="
         }
     ]
 }
