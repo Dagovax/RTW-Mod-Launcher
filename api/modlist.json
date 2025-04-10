@@ -66,24 +66,25 @@
             "ModFolder": "NL",
             "ModName": "Lanjane's Barbarian Empires",
             "Engine": 4,
-            "Hash": "dCDQm5qvW7nYRWjjklnXecihjE5WJM75ifR8BF3mvMI=ga0Kcldwe4JjunBoIRcKKA=="
+            "Hash": "QfrVQrLDvWy9jaX0LVnsxD590TIF5qpyyqITOmFPXY0=ZF9caKUv/3WQ1IouGaADkg=="
         },
         {
             "ModFolder": "NL_2",
             "ModName": "Barbarian Empires: Hellenistic Legacy",
             "Engine": 4,
-            "Hash": "tf06+w78n+HwL9GX1NilnmTAc6pSYiytmq+oDNjmdNk=nFDDaNFSdGyd+nvJptp0UA=="
+            "Hash": "QfrVQrLDvWy9jaX0LVnsxD590TIF5qpyyqITOmFPXY0=ZF9caKUv/3WQ1IouGaADkg=="
         },
         {
             "ModFolder": "AW",
             "ModName": "Ancient Wars",
             "Engine": 2
+            "Hash": "QfrVQrLDvWy9jaX0LVnsxD590TIF5qpyyqITOmFPXY0=ZF9caKUv/3WQ1IouGaADkg=="
         },
         {
             "ModFolder": "SG",
             "ModName": "Scorched Ground",
             "Engine": 2,
-            "Hash": "tf06+w78n+HwL9GX1NilnmTAc6pSYiytmq+oDNjmdNk=nFDDaNFSdGyd+nvJptp0UA=="
+            "Hash": "QfrVQrLDvWy9jaX0LVnsxD590TIF5qpyyqITOmFPXY0=ZF9caKUv/3WQ1IouGaADkg=="
         },
         {
             "ModFolder": "NEW",
@@ -460,6 +461,7 @@
             "ModFolder": "Fall_of_Rome",
             "ModName": "Fall of Rome",
             "Engine": 1,
+            "Hash": "QfrVQrLDvWy9jaX0LVnsxD590TIF5qpyyqITOmFPXY0=ZF9caKUv/3WQ1IouGaADkg=="
         },
         {
             "ModFolder": "IC",
@@ -489,11 +491,14 @@
             "ModFolder": "SB",
             "ModName": "Scorched Ground: Stormbringer",
             "Engine": 1,
+            "Hash": "QfrVQrLDvWy9jaX0LVnsxD590TIF5qpyyqITOmFPXY0=ZF9caKUv/3WQ1IouGaADkg=="
+
         },
         {
             "ModFolder": "SAI",
             "ModName": "Invasio Barbarorum: Somnium Apostatae Ivliani",
             "Engine": 1,
+            "Hash": "QfrVQrLDvWy9jaX0LVnsxD590TIF5qpyyqITOmFPXY0=ZF9caKUv/3WQ1IouGaADkg=="
         },
         {
             "ModFolder": "VI2",
