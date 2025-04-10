@@ -459,7 +459,7 @@
         },
         {
             "ModFolder": "Fall_of_Rome",
-            "ModName": "Barbarian Invasion: The Fall of Rome",
+            "ModName": "Fall of Rome",
             "Engine": 1,
             "Hash": "QfrVQrLDvWy9jaX0LVnsxD590TIF5qpyyqITOmFPXY0=ZF9caKUv/3WQ1IouGaADkg=="
         },
@@ -489,13 +489,14 @@
         },
         {
             "ModFolder": "SB",
-            "ModName": "Scorched Ground: Stormbringer Mod",
+            "ModName": "Scorched Ground: Stormbringer",
             "Engine": 1,
             "Hash": "QfrVQrLDvWy9jaX0LVnsxD590TIF5qpyyqITOmFPXY0=ZF9caKUv/3WQ1IouGaADkg=="
+
         },
         {
             "ModFolder": "SAI",
-            "ModName": "Invasio Barbarorum: Somnivm Ivliani",
+            "ModName": "Invasio Barbarorum: Somnium Apostatae Ivliani",
             "Engine": 1,
             "Hash": "QfrVQrLDvWy9jaX0LVnsxD590TIF5qpyyqITOmFPXY0=ZF9caKUv/3WQ1IouGaADkg=="
         },
