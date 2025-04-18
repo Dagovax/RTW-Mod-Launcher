@@ -357,15 +357,15 @@
         },
         {
             "ModFolder": "Darthmod_RTW",
-            "ModName": "Darthmod RTW",
+            "ModName": "Darthmod Rome",
             "Engine": 0,
-            "Hash": "+AcB5+4wEB4wnirWlZFY+HUYouBkxRbo4pSpzSrilH0=2O/M5jXklCQS57XT5QHArA=="
+            "Hash": "9SI00rFuUUKfAbx6cA0CVlIlZrSENd8odC9ku6wmbVY=bL+PlLUMA00BSz122I3tSA=="
         },
         {
             "ModFolder": "EB",
             "ModName": "Europa Barbarorum",
-            "Engine": 4,
-            "Hash": "yU2VYmgCjY1ovF2eIctN91Z4VKR+PbhAHGCNW8kV7WA=QnmvPKf3QCVohCZKWpQEbA=="
+            "Engine": 0,
+            "Hash": "fpMtBTjeoPns5TCXHJNygarjhNivwMrh7CYOxQuQa48=MVM+xMqdjf/Bo3Zr5Zeiyw=="
         },
         {
             "ModFolder": "aristeia",
