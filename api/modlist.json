@@ -582,6 +582,12 @@
             "ModName": "Persian Invasion Reborn",
             "Engine": 0,
             "Hash": "YdK2N4T07DyGOZ6crmAWF/6H4HSZSsuRSypdr+PznC8=GsQ6pepWCPsF6IIPxbBUhw=="
+        },
+        {
+            "ModFolder": "randomiser",
+            "ModName": "Rome Total War Randomiser",
+            "Engine": 0,
+            "Hash": "Ti4E7AdQL27vg6qPslPpi4B9sQX/8y9XImq14shMQRY=oyBxcVm2KuPrYfJSMEM4Iw=="
         }
     ]
 }
