@@ -417,9 +417,9 @@
         },
         {
             "ModFolder": "RG",
-            "ModName": "Res Gestae",
+            "ModName": "Res Gestae Total War",
             "Engine": 0,
-            "Hash": "3WL2Udj3VKVWcwe6GKyeYMfdem7rMjOGAgoM5DPbEys=KSfg8THSPrPQosCclZm2YQ=="
+            "Hash": "OY6Kgb9hu1Ph8u+c8dBcNzWxogSZ01y/KKu0Co173rc=5qgwrdIQHRQ7UbtPymOT4Q=="
         },
         {
             "ModFolder": "HYBRIS",
@@ -582,6 +582,12 @@
             "ModName": "Persian Invasion Reborn",
             "Engine": 0,
             "Hash": "YdK2N4T07DyGOZ6crmAWF/6H4HSZSsuRSypdr+PznC8=GsQ6pepWCPsF6IIPxbBUhw=="
+        },
+        {
+            "ModFolder": "RiseOfRome",
+            "ModName": "Rise of Rome",
+            "Engine": 0,
+            "Hash": "6+q5HXkcBsbsEns1WSSmuU6DSmTCGUmkTro4wbzIDZA=habqOFujk4GDYe1xxE2exQ=="
         }
     ]
 }
