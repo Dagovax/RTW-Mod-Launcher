@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-04-10",
+    "LastUpdated": "2025-04-18",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -492,7 +492,6 @@
             "ModName": "Scorched Ground: Stormbringer",
             "Engine": 1,
             "Hash": "QfrVQrLDvWy9jaX0LVnsxD590TIF5qpyyqITOmFPXY0=ZF9caKUv/3WQ1IouGaADkg=="
-
         },
         {
             "ModFolder": "SAI",
@@ -559,6 +558,12 @@
             "ModName": "Invasio Barbarorum: Ultra Gloriam Romae",
             "Engine": 1,
             "Hash": "6+KfwTvTYRk9ZRk+KJZL+U4R4WWYbEETKVm62XRzohE=BXp0p68lLuNJYDeZquDAcA=="
+        },
+        {
+            "ModFolder": "blue_lotus",
+            "ModName": "Blue Lotus",
+            "Engine": 0,
+            "Hash": "PW1TwZcXGMXy3+pO4Vsjt1HOReYciSHYQVO8YH2uKbc=WKJywBZbV78nrLdMTq/81A=="
         }
     ]
 }
