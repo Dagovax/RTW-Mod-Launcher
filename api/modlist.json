@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-04-18",
+    "LastUpdated": "2025-04-27",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -588,6 +588,12 @@
             "ModName": "Rise of Rome",
             "Engine": 0,
             "Hash": "6+q5HXkcBsbsEns1WSSmuU6DSmTCGUmkTro4wbzIDZA=habqOFujk4GDYe1xxE2exQ=="
+        },
+        {
+            "ModFolder": "SPQR",
+            "ModName": "SPQR",
+            "Engine": 0,
+            "Hash": "iSZSGh6CDfvH0BUlrf2IEY3p4U7T15X+SJ+sbZe3Yrg=+N8hu/VJOK3Kvvoqe863GA=="
         }
     ]
 }
