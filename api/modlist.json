@@ -606,6 +606,12 @@
             "ModName": "vanillapersia",
             "Engine": 0,
             "Hash": "vS6+necqf2CC/PBKmhvNGkhdRZJhSEc06owZOd2bTUQ=3kdHJGqtBoklJJYT2AbYxw=="
+        },
+        {
+            "ModFolder": "Enhanced",
+            "ModName": "Enhanced",
+            "Engine": 0,
+            "Hash": "54lbpoSpAmY7wSmq0OdiFxBvCYrERY3A8O/6YW0AhFo=ewFR2ax/geAcjw2mUwG0Jg=="
         }
     ]
 }
