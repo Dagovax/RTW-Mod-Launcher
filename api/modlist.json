@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-05-11",
+    "LastUpdated": "2025-06-05",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -600,6 +600,12 @@
             "ModName": "brrr",
             "Engine": 0,
             "Hash": "7ZI2AJnQZgXxKM44ff5krJ1FOLpfcywoJa8EX+RqtPE=2egBsLshT9DKJHYxWn6xPw=="
+        },
+        {
+            "ModFolder": "vanillapersia",
+            "ModName": "vanillapersia",
+            "Engine": 0,
+            "Hash": "vS6+necqf2CC/PBKmhvNGkhdRZJhSEc06owZOd2bTUQ=3kdHJGqtBoklJJYT2AbYxw=="
         }
     ]
 }
