@@ -618,6 +618,12 @@
             "ModName": "Lycan",
             "Engine": 1,
             "Hash": "nuoOw7XG5gS0b1zKLw1lP/VYDphlnwmwBj9XeIN7UhA=xzBuDX26CqnGUTuJhzLwOg=="
+        },
+        {
+            "ModFolder": "conquista",
+            "ModName": "Conquista",
+            "Engine": 0,
+            "Hash": "EovwCXTiVzxe1kcxuNRDB1cFuIp9RQMSuhX5H9g7duk=vZx6TwZ8sNEyyv9+MWqseA=="
         }
     ]
 }
