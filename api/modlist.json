@@ -612,6 +612,12 @@
             "ModName": "Enhanced",
             "Engine": 0,
             "Hash": "54lbpoSpAmY7wSmq0OdiFxBvCYrERY3A8O/6YW0AhFo=ewFR2ax/geAcjw2mUwG0Jg=="
+        },
+        {
+            "ModFolder": "Lycan",
+            "ModName": "Lycan",
+            "Engine": 1,
+            "Hash": "nuoOw7XG5gS0b1zKLw1lP/VYDphlnwmwBj9XeIN7UhA=xzBuDX26CqnGUTuJhzLwOg=="
         }
     ]
 }
