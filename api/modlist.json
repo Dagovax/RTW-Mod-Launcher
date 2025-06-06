@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-06-05",
+    "LastUpdated": "2025-06-06",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -603,9 +603,9 @@
         },
         {
             "ModFolder": "vanillapersia",
-            "ModName": "vanillapersia",
+            "ModName": "Persia",
             "Engine": 0,
-            "Hash": "vS6+necqf2CC/PBKmhvNGkhdRZJhSEc06owZOd2bTUQ=3kdHJGqtBoklJJYT2AbYxw=="
+            "Hash": "15yzvpyQ30MpA/YCPal6Ov1jd48wFnw8FMG4Van+qbI=GUDR4QFYBNxfpCJCfF52Iw=="
         },
         {
             "ModFolder": "Enhanced",
