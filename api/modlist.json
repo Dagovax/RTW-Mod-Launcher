@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-06-06",
+    "LastUpdated": "2025-06-26",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -624,6 +624,12 @@
             "ModName": "Conquista",
             "Engine": 0,
             "Hash": "EovwCXTiVzxe1kcxuNRDB1cFuIp9RQMSuhX5H9g7duk=vZx6TwZ8sNEyyv9+MWqseA=="
+        },
+        {
+            "ModFolder": "AOK",
+            "ModName": "Age Of Knights And Prophets",
+            "Engine": 1,
+            "Hash": "AAJ621MMMABvw8VuI+w+kfK+Vq8S9Lj/zmdjHZzlRt4=TrzaovRiG9KBmfNC32ovYg=="
         }
     ]
 }
