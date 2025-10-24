@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-06-26",
+    "LastUpdated": "2025-10-24",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -630,6 +630,12 @@
             "ModName": "Age Of Knights And Prophets",
             "Engine": 1,
             "Hash": "gKOMnYM5OI2SCCcXe9zQsx5bM1b1XYk3zlPpfV1uG+c=Na7UvBJek6YVdR/oV3PtOA=="
+        },
+        {
+            "ModFolder": "alx",
+            "ModName": "Robbes Alexander Mod",
+            "Engine": 2,
+            "Hash": "nGvnRf4ZvuxZvfyEN9DhRc9B9Cjs+2zxZekP07cdUq0=F0deL0jJsf/Kn6Qyn5VDzA=="
         }
     ]
 }
