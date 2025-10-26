@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-10-24",
+    "LastUpdated": "2025-10-26",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -636,6 +636,12 @@
             "ModName": "Robbes Alexander Mod",
             "Engine": 2,
             "Hash": "nGvnRf4ZvuxZvfyEN9DhRc9B9Cjs+2zxZekP07cdUq0=F0deL0jJsf/Kn6Qyn5VDzA=="
+        },
+        {
+            "ModFolder": "grit",
+            "ModName": "grit",
+            "Engine": 4,
+            "Hash": "dukLJbuJFX3Rh79/MNncWzlbmjCoM2Rc8fxYTdYRetg=uilLC7IUJZm0T6s3LIKGPQ=="
         }
     ]
 }
