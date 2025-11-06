@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-10-26",
+    "LastUpdated": "2025-11-06",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -483,9 +483,9 @@
         },
         {
             "ModFolder": "Tetrarchy",
-            "ModName": "311 AD Tetrarchy: A New Beginning",
+            "ModName": "Tetrarchy: A New Beginning",
             "Engine": 1,
-            "Hash": "tnJGpMXGfzCXzOtVQX+k8X6SW92KVM4tXEVgRM56SRw=2JfzR1YYc4qxmmyCCukgEw=="
+            "Hash": "n4gbWN8bJXtjL/KLE0oYGUCAlONVspafvtBjL5fFDHY=NZG7efGtzK9iaPCjQ3k7uQ=="
         },
         {
             "ModFolder": "SB",
