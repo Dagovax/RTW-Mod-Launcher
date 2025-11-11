@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-11-06",
+    "LastUpdated": "2025-11-11",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -591,9 +591,9 @@
         },
         {
             "ModFolder": "SPQR",
-            "ModName": "SPQR",
+            "ModName": "spqr",
             "Engine": 0,
-            "Hash": "iSZSGh6CDfvH0BUlrf2IEY3p4U7T15X+SJ+sbZe3Yrg=+N8hu/VJOK3Kvvoqe863GA=="
+            "Hash": "kOe3bBFIFkYRw8IQHnV+ytrZwZolCzOc78tsaIhLqkc=C3KEl4OpdQ2KkVzMb1Hz+g=="
         },
         {
             "ModFolder": "brm",
