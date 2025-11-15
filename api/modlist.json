@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-11-11",
+    "LastUpdated": "2025-11-15",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -642,6 +642,12 @@
             "ModName": "grit",
             "Engine": 4,
             "Hash": "dukLJbuJFX3Rh79/MNncWzlbmjCoM2Rc8fxYTdYRetg=uilLC7IUJZm0T6s3LIKGPQ=="
+        },
+        {
+            "ModFolder": "Play_Armenia",
+            "ModName": "roma surrectum 2",
+            "Engine": 0,
+            "Hash": "ZhxiotHZWt9kTNA1gjZk8dB/nytTCP4o7IoKq1N0sh4=o/52v/Mzbcn7W5CBxYFGtA=="
         }
     ]
 }
