@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-11-15",
+    "LastUpdated": "2025-12-11",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -648,6 +648,12 @@
             "ModName": "roma surrectum 2",
             "Engine": 0,
             "Hash": "ZhxiotHZWt9kTNA1gjZk8dB/nytTCP4o7IoKq1N0sh4=o/52v/Mzbcn7W5CBxYFGtA=="
+        },
+        {
+            "ModFolder": "AEEL",
+            "ModName": "AEE",
+            "Engine": 1,
+            "Hash": "ac2kyJiMv93Qr57gnm2jywqIg/5uXJuAMNWjhUbmi+w=3bORgK4xH5U66gLvxpUZbQ=="
         }
     ]
 }
