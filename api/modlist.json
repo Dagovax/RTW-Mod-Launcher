@@ -654,6 +654,12 @@
             "ModName": "AEE",
             "Engine": 1,
             "Hash": "ac2kyJiMv93Qr57gnm2jywqIg/5uXJuAMNWjhUbmi+w=3bORgK4xH5U66gLvxpUZbQ=="
+        },
+        {
+            "ModFolder": "305-YOTK",
+            "ModName": "305-YTOK",
+            "Engine": 4,
+            "Hash": "5SL7v0dQR/yfIPCPOxckfgT/zGALBRtl4atJgSpmOLo=NBBe8qqn/hZB2aeGuGx7cg=="
         }
     ]
 }
