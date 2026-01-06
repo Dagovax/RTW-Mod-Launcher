@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2025-12-11",
+    "LastUpdated": "2026-01-06",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -660,6 +660,12 @@
             "ModName": "305-YTOK",
             "Engine": 4,
             "Hash": "5SL7v0dQR/yfIPCPOxckfgT/zGALBRtl4atJgSpmOLo=NBBe8qqn/hZB2aeGuGx7cg=="
+        },
+        {
+            "ModFolder": "carthage",
+            "ModName": "Carthage Total War",
+            "Engine": 4,
+            "Hash": "jRo9GjJBWyMxFvBBF4eP+9Su0E89rgoUZmyVgKSxffk=qJ5oxco+G6NoOzLcvERnhw=="
         }
     ]
 }
