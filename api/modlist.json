@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-01-06",
+    "LastUpdated": "2026-01-12",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -411,9 +411,9 @@
         },
         {
             "ModFolder": "The_First_Triumvirate",
-            "ModName": "FRRE: The First Triumvirate",
-            "Engine": 0,
-            "Hash": "3aNMm3H+Fn2LRzM90mv3MJ2TNNXiuwF22sK2du5Y7aA=iGpsm2qXmLtrDt1vIsUpJg=="
+            "ModName": "FRRE Res Publica: The First Triumvirate",
+            "Engine": 4,
+            "Hash": "RXJdLiOxVXN+HtGsWtu2IRovCyMLrkAuY73TLan+zsw=R2zwVmJyRa5chxxlpVO0Gw=="
         },
         {
             "ModFolder": "RG",
