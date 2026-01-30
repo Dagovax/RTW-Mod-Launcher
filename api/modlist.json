@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-01-12",
+    "LastUpdated": "2026-01-30",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -666,6 +666,12 @@
             "ModName": "Carthage Total War",
             "Engine": 4,
             "Hash": "jRo9GjJBWyMxFvBBF4eP+9Su0E89rgoUZmyVgKSxffk=qJ5oxco+G6NoOzLcvERnhw=="
+        },
+        {
+            "ModFolder": "Ireland",
+            "ModName": "Irish Faction Mod",
+            "Engine": 0,
+            "Hash": "UbuXUn1LEwmsSXK3Gn0fVMcTOYGhR7rRZUmCuZHW7xM=sb3N88LyBHHVDVQkRHZiww=="
         }
     ]
 }
