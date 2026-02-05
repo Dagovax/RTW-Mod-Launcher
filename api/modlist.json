@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-01-30",
+    "LastUpdated": "2026-02-05",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -672,6 +672,12 @@
             "ModName": "Irish Faction Mod",
             "Engine": 0,
             "Hash": "cM/pd9I5HsmyZH34CwA5DjjSf3ZJm2UyDJkZ+QMhYHA=q/uIHRZpRAoQS05fY6Jyig=="
+        },
+        {
+            "ModFolder": "Chivalry 2",
+            "ModName": "Fall Of The Cross Rise Of The Cresent",
+            "Engine": 1,
+            "Hash": "qhqNz6fnTkA6cd4I3k//gGi5i63+UL/P6fJKCGxTQzk=CSlz8Bs+H6ZpnCLUcZrr+Q=="
         }
     ]
 }
