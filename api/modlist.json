@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-02-05",
+    "LastUpdated": "2026-02-21",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -678,6 +678,12 @@
             "ModName": "Fall Of The Cross Rise Of The Cresent",
             "Engine": 1,
             "Hash": "qhqNz6fnTkA6cd4I3k//gGi5i63+UL/P6fJKCGxTQzk=CSlz8Bs+H6ZpnCLUcZrr+Q=="
+        },
+        {
+            "ModFolder": "126BCmod",
+            "ModName": "126 BC - Community Edition",
+            "Engine": 0,
+            "Hash": "RsUWtZoWJ7WGmmaNROJyfYap0nDi8NF1kMcvUiQKoqU=U4pOY8olSvl7puuVJHpZeQ=="
         }
     ]
 }
