@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-02-21",
+    "LastUpdated": "2026-02-24",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -684,6 +684,12 @@
             "ModName": "126 BC - Community Edition",
             "Engine": 0,
             "Hash": "RsUWtZoWJ7WGmmaNROJyfYap0nDi8NF1kMcvUiQKoqU=U4pOY8olSvl7puuVJHpZeQ=="
+        },
+        {
+            "ModFolder": "bronze",
+            "ModName": "b",
+            "Engine": 1,
+            "Hash": "Ox6lhTNIP20Ir4msLAGCYODMZ/lxUZj0Gtf3h3mzVoE=KEGUhWSuAZIxbqKJU4iKOA=="
         }
     ]
 }
