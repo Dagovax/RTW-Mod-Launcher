@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-02-24",
+    "LastUpdated": "2026-02-27",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -690,6 +690,12 @@
             "ModName": "b",
             "Engine": 1,
             "Hash": "Ox6lhTNIP20Ir4msLAGCYODMZ/lxUZj0Gtf3h3mzVoE=KEGUhWSuAZIxbqKJU4iKOA=="
+        },
+        {
+            "ModFolder": "rog",
+            "ModName": "Ruins of Glory: Updated by Saloth_Sar",
+            "Engine": 1,
+            "Hash": "dF85v9/Yt61TdoaQAQMS1oUAb9FDDWjJjy19oS7gXFM=9ro3I2+xVBR17afjPbxmdA=="
         }
     ]
 }
