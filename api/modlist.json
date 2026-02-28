@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-02-27",
+    "LastUpdated": "2026-02-28",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -696,6 +696,12 @@
             "ModName": "Ruins of Glory: Updated by Saloth_Sar",
             "Engine": 1,
             "Hash": "dF85v9/Yt61TdoaQAQMS1oUAb9FDDWjJjy19oS7gXFM=9ro3I2+xVBR17afjPbxmdA=="
+        },
+        {
+            "ModFolder": "drv",
+            "ModName": "Debuxs Rebalanced Vanilla",
+            "Engine": 4,
+            "Hash": "Ljyx5dqNQtrVqW4yV77ZfMp+PmnFfOXS7xkK3g4rEDk=gGSWf+JMEvBWrZD65Vg5+w=="
         }
     ]
 }
