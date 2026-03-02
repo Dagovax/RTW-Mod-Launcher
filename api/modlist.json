@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-02-28",
+    "LastUpdated": "2026-03-02",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -702,6 +702,12 @@
             "ModName": "Debuxs Rebalanced Vanilla",
             "Engine": 4,
             "Hash": "Ljyx5dqNQtrVqW4yV77ZfMp+PmnFfOXS7xkK3g4rEDk=gGSWf+JMEvBWrZD65Vg5+w=="
+        },
+        {
+            "ModFolder": "ImperialTW",
+            "ModName": "Imperial Total War",
+            "Engine": 0,
+            "Hash": "KoTeiY/4YSl8oiz25OCFHLeWNRcxTcWvrHgjh/EaNi0=2AfHrEJ8bHPNhYhgKFNDrg=="
         }
     ]
 }
