@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-03-02",
+    "LastUpdated": "2026-03-03",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -708,6 +708,12 @@
             "ModName": "Imperial Total War",
             "Engine": 0,
             "Hash": "KoTeiY/4YSl8oiz25OCFHLeWNRcxTcWvrHgjh/EaNi0=2AfHrEJ8bHPNhYhgKFNDrg=="
+        },
+        {
+            "ModFolder": "TEX",
+            "ModName": "Terrae Expugnandae Extreme",
+            "Engine": 4,
+            "Hash": "VYefc+cpCWWIaWAizHzCeRRQMOmlEGgKnZEgw/TD3j0=kyU5wXZhDpE6nnZZavkkNA=="
         }
     ]
 }
