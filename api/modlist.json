@@ -714,6 +714,12 @@
             "ModName": "Terrae Expugnandae Extreme",
             "Engine": 4,
             "Hash": "VYefc+cpCWWIaWAizHzCeRRQMOmlEGgKnZEgw/TD3j0=kyU5wXZhDpE6nnZZavkkNA=="
+        },
+        {
+            "ModFolder": "imp",
+            "ModName": "Imperator II - Apocalypto",
+            "Engine": 1,
+            "Hash": "J5DWDX9tYpR1ORXEObNNaMmcCROCK9P8Fklp5NVKMkg=BQvS+WdK3XiX1Yl6RqpdNQ=="
         }
     ]
 }
