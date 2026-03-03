@@ -720,6 +720,12 @@
             "ModName": "Imperator II - Apocalypto",
             "Engine": 1,
             "Hash": "J5DWDX9tYpR1ORXEObNNaMmcCROCK9P8Fklp5NVKMkg=BQvS+WdK3XiX1Yl6RqpdNQ=="
+        },
+        {
+            "ModFolder": "EB172",
+            "ModName": "Europa Barbarorum 172 BC",
+            "Engine": 4,
+            "Hash": "azh627rber7XJ0D2732n0PBLCL0PPg5PFdxts9ycG4M=ofPwGRZI9N8wEAYF4GNjQw=="
         }
     ]
 }
