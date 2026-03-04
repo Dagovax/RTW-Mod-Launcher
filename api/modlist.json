@@ -738,6 +738,12 @@
             "ModName": "Rome Total History",
             "Engine": 4,
             "Hash": "ukzS2oO6rmLIqaf8bnKjxD+rBTazlOrufRWFYHDLeds=XOR5edqidub3zaN63BM+MQ=="
+        },
+        {
+            "ModFolder": "mm3",
+            "ModName": "270 BC",
+            "Engine": 0,
+            "Hash": "EnqzAe4RIW9I6KtGd75hp/zJRI0+YuwfY8S8A37Ylgs=IhBZ32qRMbTsNc7EETbRwg=="
         }
     ]
 }
