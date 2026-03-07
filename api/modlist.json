@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-03-04",
+    "LastUpdated": "2026-03-07",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -756,6 +756,12 @@
             "ModName": "310 BC",
             "Engine": 0,
             "Hash": "K+Yx7raehobVmIt9d3ANnRjTOBT1W7WUFpvDDzYb94w=/SqwhYw6I/I7bztFmiUC4Q=="
+        },
+        {
+            "ModFolder": "SPARTA",
+            "ModName": "Sparta Total War",
+            "Engine": 1,
+            "Hash": "oWFmxKRkfBOYHrU3kjnJjRIhqLQZQqRHEVvAByXDwp8=sCR7U3m/+p64oeJduX6ySA=="
         }
     ]
 }
