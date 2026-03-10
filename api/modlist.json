@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-03-07",
+    "LastUpdated": "2026-03-10",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -762,6 +762,12 @@
             "ModName": "Sparta Total War",
             "Engine": 1,
             "Hash": "oWFmxKRkfBOYHrU3kjnJjRIhqLQZQqRHEVvAByXDwp8=sCR7U3m/+p64oeJduX6ySA=="
+        },
+        {
+            "ModFolder": "legio",
+            "ModName": "Legio",
+            "Engine": 4,
+            "Hash": "KiKWxz/iGPM9cNHKnqGZGJH54Vb97BTbuUyY9ZWv/zY=FYgGMqAOYM+BSeW3uOBFZw=="
         }
     ]
 }
