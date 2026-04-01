@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-03-11",
+    "LastUpdated": "2026-04-01",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -768,6 +768,12 @@
             "ModName": "Legio",
             "Engine": 4,
             "Hash": "KiKWxz/iGPM9cNHKnqGZGJH54Vb97BTbuUyY9ZWv/zY=FYgGMqAOYM+BSeW3uOBFZw=="
+        },
+        {
+            "ModFolder": "empires_tw",
+            "ModName": "EmpiresTW",
+            "Engine": 4,
+            "Hash": "0yHGP05/opiMUtJVxt1en7o/odwMJWvO/YUZ1aEhSqU=L9X7Up5L41thFlQZgC3a4g=="
         }
     ]
 }
