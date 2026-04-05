@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-04-03",
+    "LastUpdated": "2026-04-05",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -774,6 +774,12 @@
             "ModName": "EmpiresTW",
             "Engine": 2,
             "Hash": "sUERZOLoQ6400q9cP7ai5+uifFNGLxXqnx8CMmblkgU=g8Q4YP0nzEt1AF/HEDa1gg=="
+        },
+        {
+            "ModFolder": "Ancient Empires Elysium",
+            "ModName": "Ancient Empires Elysium",
+            "Engine": 0,
+            "Hash": "pjLbcm6qE0Uos681mWa7dC4wmR4gmYijWCw9EFHunOU=Q7MrWWJMzUs6TnFEVC5ITQ=="
         }
     ]
 }
