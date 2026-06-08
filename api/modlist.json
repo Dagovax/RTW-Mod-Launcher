@@ -816,6 +816,25 @@
             "ModName": "Ancient Empires Elysium",
             "Engine": 0,
             "Hash": "pjLbcm6qE0Uos681mWa7dC4wmR4gmYijWCw9EFHunOU=Q7MrWWJMzUs6TnFEVC5ITQ=="
+        },
+        {
+            "LastUpdate": "2026-06-08",
+            "ModFolder": "cursedTWunit2",
+            "ModName": "",
+            "Engine": -1,
+            "Hash": "",
+            "Uploader": "",
+            "Validated": false,
+            "Notified": false,
+            "CommitMessage": "",
+            "PendingChanges": {
+                "LastUpdate": "2026-06-08",
+                "ModName": "Cursed Melkor Unit 2",
+                "Engine": 0,
+                "Hash": "lMoOELd6QSeafbhtSGoPQef9X5n3dTC0jiBjgdg6HJg=7loRopIu0yt1GnbYtvEq0g==",
+                "Uploader": "Sirrianus Dagovax",
+                "CommitMessage": ""
+            }
         }
     ]
 }
