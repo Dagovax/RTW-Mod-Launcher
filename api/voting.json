@@ -16,10 +16,14 @@
         {
             "ModFolder": "xc",
             "Hash": "GsvX+vsIxEd3N+F5xRBlfcMGPi1Vyf8pkuduskKhLFA=iP+v5ORH9mtXTzCnZlIPrg==",
-            "Upvoters": [
-            ],
-            "Downvoters": [
-            ]
+            "Upvoters": [],
+            "Downvoters": []
+        },
+        {
+            "ModFolder": "dg_bcw",
+            "Hash": "t94ry/vVyylNGqCWcdmXsnX/4yeMk9f38Jsk0Fri0Sw=J7QAF1iIR8WO7hfuVCinwA==",
+            "Upvoters": [],
+            "Downvoters": []
         }
     ]
 }
