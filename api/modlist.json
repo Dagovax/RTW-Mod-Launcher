@@ -25,7 +25,23 @@
         {
             "ModFolder": "xc",
             "ModName": "Extended Cultures IV",
-            "Engine": 3
+            "Engine": 3,
+            "Hash": "GsvX+vsIxEd3N+F5xRBlfcMGPi1Vyf8pkuduskKhLFA=iP+v5ORH9mtXTzCnZlIPrg==",
+            "LastUpdate": "2026-06-02",
+            "Uploader": "Sirrianus Dagovax",
+            "Validated": false,
+            "Notified": false,
+            "CommitMessage": "test new username",
+            "PendingChanges": [
+                {
+                    "LastUpdate": "2026-06-08",
+                    "ModName": "Extended Cultures IV",
+                    "Engine": 3,
+                    "Hash": "GsvX+vsIxEd3N+F5xRBlfcMGPi1Vyf8pkuduskKhLFA=iP+v5ORH9mtXTzCnZlIPrg==",
+                    "Uploader": "Sirrianus Dagovax",
+                    "CommitMessage": "extended cultures iv update"
+                }
+            ]
         },
         {
             "ModFolder": "xc5",
