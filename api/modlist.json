@@ -378,7 +378,12 @@
             "ModFolder": "dg_bcw",
             "ModName": "Barbarian Fortified Ramparts",
             "Engine": 0,
-            "Hash": "7F/iI1ASTcijwVIbZ6X/wZY+lMX+e7IBuwnqPqFTnyI=xxmbZerOEkfJ0+6e5FPWLA=="
+            "Hash": "t94ry/vVyylNGqCWcdmXsnX/4yeMk9f38Jsk0Fri0Sw=J7QAF1iIR8WO7hfuVCinwA==",
+            "LastUpdate": "2026-06-08",
+            "Uploader": "Sirrianus Dagovax",
+            "Validated": false,
+            "Notified": false,
+            "CommitMessage": "Test some mod changes"
         },
         {
             "ModFolder": "RO",
