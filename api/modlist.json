@@ -9,7 +9,8 @@
             "LastUpdate": "2026-06-08",
             "Uploader": "Sirrianus Dagovax",
             "Validated": false,
-            "Notified": false
+            "Notified": false,
+            "CommitMessage": "test new username"
         },
         {
             "ModFolder": "xc",
