@@ -827,7 +827,8 @@
             "Validated": false,
             "Notified": false,
             "CommitMessage": "",
-            "PendingChanges": {
+            "PendingChanges": [
+                {
                 "LastUpdate": "2026-06-08",
                 "ModName": "Cursed Melkor Unit 2",
                 "Engine": 0,
@@ -835,6 +836,7 @@
                 "Uploader": "Sirrianus Dagovax",
                 "CommitMessage": ""
             }
+            ]
         }
     ]
 }
