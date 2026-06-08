@@ -10,7 +10,16 @@
             "Uploader": "Sirrianus Dagovax",
             "Validated": false,
             "Notified": false,
-            "CommitMessage": "test new username"
+            "CommitMessage": "test new username",
+            "PendingChanges": [
+                {
+                    "ModName": "Total War: 1942",
+                    "Engine": 1,
+                    "Hash": "/J5fSLJngjZVSix363JfIU30tEWwoftzo6ApLBd3YvM=SbE6e/fUGRoeT0XoGi6J+w==",
+                    "Uploader": "Sirrianus Dagovax",
+                    "CommitMessage": "test haha"
+                }
+            ]
         },
         {
             "ModFolder": "xc",
