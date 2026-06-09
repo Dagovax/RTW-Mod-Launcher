@@ -24,14 +24,6 @@
             "Notified": false,
             "CommitMessage": "test new username",
             "PendingChanges": [
-                {
-                    "LastUpdate": "2026-06-08",
-                    "ModName": "Extended Cultures IV",
-                    "Engine": 3,
-                    "Hash": "GsvX+vsIxEd3N+F5xRBlfcMGPi1Vyf8pkuduskKhLFA=iP+v5ORH9mtXTzCnZlIPrg==",
-                    "Uploader": "Sirrianus Dagovax",
-                    "CommitMessage": "extended cultures iv update"
-                }
             ]
         },
         {
@@ -819,14 +811,6 @@
             "Notified": false,
             "CommitMessage": "",
             "PendingChanges": [
-                {
-                    "LastUpdate": "2026-06-08",
-                    "ModName": "Cursed Melkor Unit 2",
-                    "Engine": 0,
-                    "Hash": "lMoOELd6QSeafbhtSGoPQef9X5n3dTC0jiBjgdg6HJg=7loRopIu0yt1GnbYtvEq0g==",
-                    "Uploader": "Sirrianus Dagovax",
-                    "CommitMessage": ""
-                }
             ]
         }
     ]
