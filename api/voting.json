@@ -1,34 +1,4 @@
 {
     "Mods": [
-        {
-            "ModFolder": "xc",
-            "Hash": "GsvX+vsIxEd3N+F5xRBlfcMGPi1Vyf8pkuduskKhLFA=iP+v5ORH9mtXTzCnZlIPrg==",
-            "Upvoters": [],
-            "Downvoters": [
-                "Sirrianus Dagovax"
-            ]
-        },
-        {
-            "ModFolder": "dg_bcw",
-            "Hash": "t94ry/vVyylNGqCWcdmXsnX/4yeMk9f38Jsk0Fri0Sw=J7QAF1iIR8WO7hfuVCinwA==",
-            "Upvoters": [],
-            "Downvoters": []
-        },
-        {
-            "ModFolder": "cursedTWunit2",
-            "Hash": "lMoOELd6QSeafbhtSGoPQef9X5n3dTC0jiBjgdg6HJg=7loRopIu0yt1GnbYtvEq0g==",
-            "Upvoters": [
-                "Sirrianus Dagovax"
-            ],
-            "Downvoters": []
-        },
-        {
-            "ModFolder": "1942",
-            "Hash": "ht1fcSwYytvth7/b7cTFTJJeyhuKAeiwBplDD7d/pq4=POcvCtF9H7/hotfocNnckw==",
-            "Upvoters": [],
-            "Downvoters": [
-                "gerald"
-            ]
-        }
     ]
 }
