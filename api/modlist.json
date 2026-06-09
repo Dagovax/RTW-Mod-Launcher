@@ -20,7 +20,7 @@
             "Hash": "GsvX+vsIxEd3N+F5xRBlfcMGPi1Vyf8pkuduskKhLFA=iP+v5ORH9mtXTzCnZlIPrg==",
             "LastUpdate": "2026-06-02",
             "Uploader": "Sirrianus Dagovax",
-            "Validated": false,
+            "Validated": true,
             "Notified": false,
             "CommitMessage": "test new username",
             "PendingChanges": [
@@ -364,7 +364,7 @@
             "Hash": "t94ry/vVyylNGqCWcdmXsnX/4yeMk9f38Jsk0Fri0Sw=J7QAF1iIR8WO7hfuVCinwA==",
             "LastUpdate": "2026-06-08",
             "Uploader": "Sirrianus Dagovax",
-            "Validated": false,
+            "Validated": true,
             "Notified": false,
             "CommitMessage": "Test some mod changes"
         },
@@ -807,7 +807,7 @@
             "Engine": -1,
             "Hash": "",
             "Uploader": "",
-            "Validated": false,
+            "Validated": true,
             "Notified": false,
             "CommitMessage": "",
             "PendingChanges": [
