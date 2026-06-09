@@ -8,19 +8,10 @@
             "Hash": "GsvX+vsIxEd3N+F5xRBlfcMGPi1Vyf8pkuduskKhLFA=iP+v5ORH9mtXTzCnZlIPrg==",
             "LastUpdate": "2026-06-08",
             "Uploader": "Sirrianus Dagovax",
-            "Validated": false,
+            "Validated": true,
             "Notified": false,
             "CommitMessage": "test new username",
-            "PendingChanges": [
-                {
-                    "LastUpdate": "2026-06-09",
-                    "ModName": "Total War: 1942",
-                    "Engine": 1,
-                    "Hash": "ht1fcSwYytvth7/b7cTFTJJeyhuKAeiwBplDD7d/pq4=POcvCtF9H7/hotfocNnckw==",
-                    "Uploader": "Sirrianus Dagovax",
-                    "CommitMessage": "test upd var 2"
-                }
-            ]
+            "PendingChanges": []
         },
         {
             "ModFolder": "xc",
