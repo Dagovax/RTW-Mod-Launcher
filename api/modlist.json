@@ -819,6 +819,27 @@
                     "CommitMessage": ""
                 }
             ]
+        },
+        {
+            "LastUpdate": "2026-06-09",
+            "ModFolder": "roman_slingers",
+            "ModName": "",
+            "Engine": -1,
+            "Hash": "",
+            "Uploader": "",
+            "Validated": false,
+            "Notified": false,
+            "CommitMessage": "",
+            "PendingChanges": [
+                {
+                    "LastUpdate": "2026-06-09",
+                    "ModName": "Roman Slingers",
+                    "Engine": 0,
+                    "Hash": "DQefX3jmaEe9ZUinthczKkJ8gSGBJ/xE4u+6AoQjhe4=az8Z+mKGa0pTSwcSMR9FlQ==",
+                    "Uploader": "Sirrianus Dagovax",
+                    "CommitMessage": ""
+                }
+            ]
         }
     ]
 }
