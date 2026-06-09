@@ -4,14 +4,14 @@
             "ModFolder": "cursedTWunit2",
             "Hash": "vRX8tsuKx6mvId/WsC6rhHTjQnK9P+wG7SDjajzp3xI=6zbcQWqxd9mXUVwqhk4UOQ==",
             "Upvoters": [],
-            "Downvoters": []
+            "Downvoters": [
+                "pino"
+            ]
         },
         {
             "ModFolder": "roman_slingers",
             "Hash": "DQefX3jmaEe9ZUinthczKkJ8gSGBJ/xE4u+6AoQjhe4=az8Z+mKGa0pTSwcSMR9FlQ==",
-            "Upvoters": [
-                "Sirrianus Dagovax"
-            ],
+            "Upvoters": [],
             "Downvoters": []
         }
     ]
