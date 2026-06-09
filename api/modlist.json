@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-06-08",
+    "LastUpdated": "2026-06-09",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -8,19 +8,10 @@
             "Hash": "GsvX+vsIxEd3N+F5xRBlfcMGPi1Vyf8pkuduskKhLFA=iP+v5ORH9mtXTzCnZlIPrg==",
             "LastUpdate": "2026-06-08",
             "Uploader": "Sirrianus Dagovax",
-            "Validated": false,
+            "Validated": true,
             "Notified": false,
             "CommitMessage": "test new username",
-            "PendingChanges": [
-                {
-                    "LastUpdate": "2026-06-08",
-                    "ModName": "Total War: 1942",
-                    "Engine": 1,
-                    "Hash": "/J5fSLJngjZVSix363JfIU30tEWwoftzo6ApLBd3YvM=SbE6e/fUGRoeT0XoGi6J+w==",
-                    "Uploader": "Sirrianus Dagovax",
-                    "CommitMessage": "test haha"
-                }
-            ]
+            "PendingChanges": []
         },
         {
             "ModFolder": "xc",
@@ -829,13 +820,13 @@
             "CommitMessage": "",
             "PendingChanges": [
                 {
-                "LastUpdate": "2026-06-08",
-                "ModName": "Cursed Melkor Unit 2",
-                "Engine": 0,
-                "Hash": "lMoOELd6QSeafbhtSGoPQef9X5n3dTC0jiBjgdg6HJg=7loRopIu0yt1GnbYtvEq0g==",
-                "Uploader": "Sirrianus Dagovax",
-                "CommitMessage": ""
-            }
+                    "LastUpdate": "2026-06-08",
+                    "ModName": "Cursed Melkor Unit 2",
+                    "Engine": 0,
+                    "Hash": "lMoOELd6QSeafbhtSGoPQef9X5n3dTC0jiBjgdg6HJg=7loRopIu0yt1GnbYtvEq0g==",
+                    "Uploader": "Sirrianus Dagovax",
+                    "CommitMessage": ""
+                }
             ]
         }
     ]
