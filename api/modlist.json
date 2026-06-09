@@ -798,18 +798,6 @@
             "ModName": "Ancient Empires Elysium",
             "Engine": 0,
             "Hash": "pjLbcm6qE0Uos681mWa7dC4wmR4gmYijWCw9EFHunOU=Q7MrWWJMzUs6TnFEVC5ITQ=="
-        },
-        {
-            "LastUpdate": "2026-06-08",
-            "ModFolder": "cursedTWunit2",
-            "ModName": "",
-            "Engine": -1,
-            "Hash": "",
-            "Uploader": "",
-            "Validated": true,
-            "Notified": false,
-            "CommitMessage": "",
-            "PendingChanges": []
         }
     ]
 }
