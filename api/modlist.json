@@ -6,73 +6,60 @@
             "ModName": "Total War: 1942",
             "Engine": 1,
             "Hash": "DpeSkG+f46k13b1kYt2st09t4NPliW6a3kCqm7kBVK0=NuV3J+twMDKDZ6yRPIrZEQ==",
-            "LastUpdate": "2026-06-09",
-            "Uploader": "Sirrianus Dagovax",
-            "Validated": false,
-            "Notified": false,
-            "CommitMessage": "test 123",
-            "PendingChanges": [
-                {
-                    "LastUpdate": "2026-06-10",
-                    "ModName": "Total War: 1942",
-                    "Engine": 1,
-                    "Hash": "6GooG8VMmvWcBb377XSBe7hoHUwwD5ksTk4TLzi80vM=LU95INVW1+v8+KB0Xyt0uQ==",
-                    "Uploader": "Sirrianus Dagovax",
-                    "CommitMessage": "Testing new voting system"
-                }
-            ]
-        },
-        {
-            "ModFolder": "xc",
-            "ModName": "Extended Cultures IV",
-            "Engine": 3,
-            "Hash": "GsvX+vsIxEd3N+F5xRBlfcMGPi1Vyf8pkuduskKhLFA=iP+v5ORH9mtXTzCnZlIPrg==",
-            "LastUpdate": "2026-06-02",
+            "LastUpdate": "2026-06-10",
             "Uploader": "Sirrianus Dagovax",
             "Validated": true,
             "Notified": false,
-            "CommitMessage": "test new username",
+            "CommitMessage": "Testing new voting system",
             "PendingChanges": []
-        },
-        {
-            "ModFolder": "xc5",
-            "ModName": "Extended Cultures V",
-            "Engine": 3
-        },
-        {
-            "ModFolder": "xgm",
-            "ModName": "Extended Greek Mod",
-            "Engine": 3
-        },
-        {
-            "ModFolder": "runescape",
-            "ModName": "Runescape Total War",
-            "Engine": 2
         },
         {
             "ModFolder": "SWTW",
             "ModName": "Star Wars: Total War",
-            "Engine": 2
+            "Engine": 2,
+            "Hash": "DpeSkG+f46k13b1kYt2st09t4NPliW6a3kCqm7kBVK0=NuV3J+twMDKDZ6yRPIrZEQ==",
+            "LastUpdate": "2026-06-10",
+            "Uploader": "Sirrianus Dagovax",
+            "Validated": true,
+            "Notified": false,
+            "CommitMessage": "ModLauncher 2.2",
+            "PendingChanges": []
         },
         {
             "ModFolder": "VanillaNB",
             "ModName": "Vanilla Naval Battles",
-            "Engine": 1
+            "Engine": 1,
+            "Hash": "DpeSkG+f46k13b1kYt2st09t4NPliW6a3kCqm7kBVK0=NuV3J+twMDKDZ6yRPIrZEQ==",
+            "LastUpdate": "2026-06-10",
+            "Uploader": "Sirrianus Dagovax",
+            "Validated": true,
+            "Notified": false,
+            "CommitMessage": "ModLauncher 2.2",
+            "PendingChanges": []
         },
         {
             "ModFolder": "lotrtw",
             "ModName": "Lord of the Rings: Total War",
-            "Engine": 2
-        },
-        {
-            "ModFolder": "israeltw",
-            "ModName": "Israel: Total War",
-            "Engine": 2
+            "Engine": 2,
+            "Hash": "DpeSkG+f46k13b1kYt2st09t4NPliW6a3kCqm7kBVK0=NuV3J+twMDKDZ6yRPIrZEQ==",
+            "LastUpdate": "2026-06-10",
+            "Uploader": "Sirrianus Dagovax",
+            "Validated": true,
+            "Notified": false,
+            "CommitMessage": "ModLauncher 2.2",
+            "PendingChanges": []
         },
         {
             "ModFolder": "holland",
             "ModName": "Holland: Total War",
-            "Engine": 0
+            "Engine": 0,
+            "Hash": "DpeSkG+f46k13b1kYt2st09t4NPliW6a3kCqm7kBVK0=NuV3J+twMDKDZ6yRPIrZEQ==",
+            "LastUpdate": "2026-06-10",
+            "Uploader": "Sirrianus Dagovax",
+            "Validated": true,
+            "Notified": false,
+            "CommitMessage": "ModLauncher 2.2",
+            "PendingChanges": []
         },
         {
             "ModFolder": "Antiquity",
@@ -298,7 +285,14 @@
         {
             "ModFolder": "israel",
             "ModName": "Israel ModFolder by Dagovax",
-            "Engine": 0
+            "Engine": 0,
+            "Hash": "DpeSkG+f46k13b1kYt2st09t4NPliW6a3kCqm7kBVK0=NuV3J+twMDKDZ6yRPIrZEQ==",
+            "LastUpdate": "2026-06-10",
+            "Uploader": "Sirrianus Dagovax",
+            "Validated": true,
+            "Notified": false,
+            "CommitMessage": "ModLauncher 2.2",
+            "PendingChanges": []
         },
         {
             "ModFolder": "ROP3",
@@ -617,106 +611,16 @@
             "Hash": "6+q5HXkcBsbsEns1WSSmuU6DSmTCGUmkTro4wbzIDZA=habqOFujk4GDYe1xxE2exQ=="
         },
         {
-            "ModFolder": "SPQR",
-            "ModName": "spqr",
-            "Engine": 0,
-            "Hash": "kOe3bBFIFkYRw8IQHnV+ytrZwZolCzOc78tsaIhLqkc=C3KEl4OpdQ2KkVzMb1Hz+g=="
-        },
-        {
-            "ModFolder": "brm",
-            "ModName": "brrr",
-            "Engine": 0,
-            "Hash": "7ZI2AJnQZgXxKM44ff5krJ1FOLpfcywoJa8EX+RqtPE=2egBsLshT9DKJHYxWn6xPw=="
-        },
-        {
             "ModFolder": "vanillapersia",
             "ModName": "Persia",
             "Engine": 0,
             "Hash": "15yzvpyQ30MpA/YCPal6Ov1jd48wFnw8FMG4Van+qbI=GUDR4QFYBNxfpCJCfF52Iw=="
         },
         {
-            "ModFolder": "Enhanced",
-            "ModName": "Enhanced",
-            "Engine": 0,
-            "Hash": "54lbpoSpAmY7wSmq0OdiFxBvCYrERY3A8O/6YW0AhFo=ewFR2ax/geAcjw2mUwG0Jg=="
-        },
-        {
-            "ModFolder": "Lycan",
-            "ModName": "Lycan",
-            "Engine": 1,
-            "Hash": "nuoOw7XG5gS0b1zKLw1lP/VYDphlnwmwBj9XeIN7UhA=xzBuDX26CqnGUTuJhzLwOg=="
-        },
-        {
-            "ModFolder": "conquista",
-            "ModName": "Conquista",
-            "Engine": 0,
-            "Hash": "EovwCXTiVzxe1kcxuNRDB1cFuIp9RQMSuhX5H9g7duk=vZx6TwZ8sNEyyv9+MWqseA=="
-        },
-        {
             "ModFolder": "AOK",
             "ModName": "Age Of Knights And Prophets",
             "Engine": 1,
             "Hash": "gKOMnYM5OI2SCCcXe9zQsx5bM1b1XYk3zlPpfV1uG+c=Na7UvBJek6YVdR/oV3PtOA=="
-        },
-        {
-            "ModFolder": "alx",
-            "ModName": "Robbes Alexander Mod",
-            "Engine": 2,
-            "Hash": "nGvnRf4ZvuxZvfyEN9DhRc9B9Cjs+2zxZekP07cdUq0=F0deL0jJsf/Kn6Qyn5VDzA=="
-        },
-        {
-            "ModFolder": "grit",
-            "ModName": "grit",
-            "Engine": 4,
-            "Hash": "dukLJbuJFX3Rh79/MNncWzlbmjCoM2Rc8fxYTdYRetg=uilLC7IUJZm0T6s3LIKGPQ=="
-        },
-        {
-            "ModFolder": "Play_Armenia",
-            "ModName": "roma surrectum 2",
-            "Engine": 0,
-            "Hash": "ZhxiotHZWt9kTNA1gjZk8dB/nytTCP4o7IoKq1N0sh4=o/52v/Mzbcn7W5CBxYFGtA=="
-        },
-        {
-            "ModFolder": "AEEL",
-            "ModName": "AEE",
-            "Engine": 1,
-            "Hash": "ac2kyJiMv93Qr57gnm2jywqIg/5uXJuAMNWjhUbmi+w=3bORgK4xH5U66gLvxpUZbQ=="
-        },
-        {
-            "ModFolder": "305-YOTK",
-            "ModName": "305-YTOK",
-            "Engine": 4,
-            "Hash": "5SL7v0dQR/yfIPCPOxckfgT/zGALBRtl4atJgSpmOLo=NBBe8qqn/hZB2aeGuGx7cg=="
-        },
-        {
-            "ModFolder": "carthage",
-            "ModName": "Carthage Total War",
-            "Engine": 4,
-            "Hash": "jRo9GjJBWyMxFvBBF4eP+9Su0E89rgoUZmyVgKSxffk=qJ5oxco+G6NoOzLcvERnhw=="
-        },
-        {
-            "ModFolder": "Ireland",
-            "ModName": "Irish Faction Mod",
-            "Engine": 0,
-            "Hash": "cM/pd9I5HsmyZH34CwA5DjjSf3ZJm2UyDJkZ+QMhYHA=q/uIHRZpRAoQS05fY6Jyig=="
-        },
-        {
-            "ModFolder": "Chivalry 2",
-            "ModName": "Fall Of The Cross Rise Of The Cresent",
-            "Engine": 1,
-            "Hash": "qhqNz6fnTkA6cd4I3k//gGi5i63+UL/P6fJKCGxTQzk=CSlz8Bs+H6ZpnCLUcZrr+Q=="
-        },
-        {
-            "ModFolder": "126BCmod",
-            "ModName": "126 BC - Community Edition",
-            "Engine": 0,
-            "Hash": "RsUWtZoWJ7WGmmaNROJyfYap0nDi8NF1kMcvUiQKoqU=U4pOY8olSvl7puuVJHpZeQ=="
-        },
-        {
-            "ModFolder": "bronze",
-            "ModName": "b",
-            "Engine": 1,
-            "Hash": "Ox6lhTNIP20Ir4msLAGCYODMZ/lxUZj0Gtf3h3mzVoE=KEGUhWSuAZIxbqKJU4iKOA=="
         },
         {
             "ModFolder": "rog",
@@ -743,112 +647,10 @@
             "Hash": "VYefc+cpCWWIaWAizHzCeRRQMOmlEGgKnZEgw/TD3j0=kyU5wXZhDpE6nnZZavkkNA=="
         },
         {
-            "ModFolder": "imp",
-            "ModName": "Imperator II - Apocalypto",
-            "Engine": 1,
-            "Hash": "J5DWDX9tYpR1ORXEObNNaMmcCROCK9P8Fklp5NVKMkg=BQvS+WdK3XiX1Yl6RqpdNQ=="
-        },
-        {
             "ModFolder": "EB172",
             "ModName": "Europa Barbarorum 172 BC",
             "Engine": 4,
             "Hash": "azh627rber7XJ0D2732n0PBLCL0PPg5PFdxts9ycG4M=ofPwGRZI9N8wEAYF4GNjQw=="
-        },
-        {
-            "ModFolder": "catw01",
-            "ModName": "Classical Age - Total War 01",
-            "Engine": 4,
-            "Hash": "K6+UwrTwL9FJA+oNvrtOUabWWKWkf1aq8/FXw6TCGSQ=iIssQuSMM7MLjAMjwjgivw=="
-        },
-        {
-            "ModFolder": "RTH",
-            "ModName": "Rome Total History",
-            "Engine": 4,
-            "Hash": "ukzS2oO6rmLIqaf8bnKjxD+rBTazlOrufRWFYHDLeds=XOR5edqidub3zaN63BM+MQ=="
-        },
-        {
-            "ModFolder": "mm3",
-            "ModName": "270 BC",
-            "Engine": 0,
-            "Hash": "EnqzAe4RIW9I6KtGd75hp/zJRI0+YuwfY8S8A37Ylgs=IhBZ32qRMbTsNc7EETbRwg=="
-        },
-        {
-            "ModFolder": "modfolder",
-            "ModName": "275 BC",
-            "Engine": 0,
-            "Hash": "OYc/xtXiC/IVOBFVGzbcEnpubqVD4R19stcZ75sEcBU=neNbrunw7PZ7ESYvDhwFUA=="
-        },
-        {
-            "ModFolder": "europa270bc",
-            "ModName": "310 BC",
-            "Engine": 0,
-            "Hash": "K+Yx7raehobVmIt9d3ANnRjTOBT1W7WUFpvDDzYb94w=/SqwhYw6I/I7bztFmiUC4Q=="
-        },
-        {
-            "ModFolder": "SPARTA",
-            "ModName": "Sparta Total War",
-            "Engine": 1,
-            "Hash": "oWFmxKRkfBOYHrU3kjnJjRIhqLQZQqRHEVvAByXDwp8=sCR7U3m/+p64oeJduX6ySA=="
-        },
-        {
-            "ModFolder": "legio",
-            "ModName": "Legio",
-            "Engine": 4,
-            "Hash": "KiKWxz/iGPM9cNHKnqGZGJH54Vb97BTbuUyY9ZWv/zY=FYgGMqAOYM+BSeW3uOBFZw=="
-        },
-        {
-            "ModFolder": "empires_tw",
-            "ModName": "EmpiresTW",
-            "Engine": 2,
-            "Hash": "sUERZOLoQ6400q9cP7ai5+uifFNGLxXqnx8CMmblkgU=g8Q4YP0nzEt1AF/HEDa1gg=="
-        },
-        {
-            "ModFolder": "Ancient Empires Elysium",
-            "ModName": "Ancient Empires Elysium",
-            "Engine": 0,
-            "Hash": "pjLbcm6qE0Uos681mWa7dC4wmR4gmYijWCw9EFHunOU=Q7MrWWJMzUs6TnFEVC5ITQ=="
-        },
-        {
-            "LastUpdate": "2026-06-09",
-            "ModFolder": "cursedTWunit2",
-            "ModName": "",
-            "Engine": -1,
-            "Hash": "",
-            "Uploader": "",
-            "Validated": false,
-            "Notified": false,
-            "CommitMessage": "",
-            "PendingChanges": [
-                {
-                    "LastUpdate": "2026-06-09",
-                    "ModName": "Cursed Unit for Melkor 2",
-                    "Engine": 0,
-                    "Hash": "vRX8tsuKx6mvId/WsC6rhHTjQnK9P+wG7SDjajzp3xI=6zbcQWqxd9mXUVwqhk4UOQ==",
-                    "Uploader": "Sirrianus Dagovax",
-                    "CommitMessage": ""
-                }
-            ]
-        },
-        {
-            "LastUpdate": "2026-06-09",
-            "ModFolder": "roman_slingers",
-            "ModName": "",
-            "Engine": -1,
-            "Hash": "",
-            "Uploader": "",
-            "Validated": false,
-            "Notified": false,
-            "CommitMessage": "",
-            "PendingChanges": [
-                {
-                    "LastUpdate": "2026-06-09",
-                    "ModName": "Roman Slingers",
-                    "Engine": 0,
-                    "Hash": "DQefX3jmaEe9ZUinthczKkJ8gSGBJ/xE4u+6AoQjhe4=az8Z+mKGa0pTSwcSMR9FlQ==",
-                    "Uploader": "Sirrianus Dagovax",
-                    "CommitMessage": ""
-                }
-            ]
         }
     ]
 }
