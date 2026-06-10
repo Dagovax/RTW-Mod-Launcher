@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-06-09",
+    "LastUpdated": "2026-06-10",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -8,10 +8,19 @@
             "Hash": "DpeSkG+f46k13b1kYt2st09t4NPliW6a3kCqm7kBVK0=NuV3J+twMDKDZ6yRPIrZEQ==",
             "LastUpdate": "2026-06-09",
             "Uploader": "Sirrianus Dagovax",
-            "Validated": true,
+            "Validated": false,
             "Notified": false,
             "CommitMessage": "test 123",
-            "PendingChanges": []
+            "PendingChanges": [
+                {
+                    "LastUpdate": "2026-06-10",
+                    "ModName": "Total War: 1942",
+                    "Engine": 1,
+                    "Hash": "6GooG8VMmvWcBb377XSBe7hoHUwwD5ksTk4TLzi80vM=LU95INVW1+v8+KB0Xyt0uQ==",
+                    "Uploader": "Sirrianus Dagovax",
+                    "CommitMessage": "Testing new voting system"
+                }
+            ]
         },
         {
             "ModFolder": "xc",
