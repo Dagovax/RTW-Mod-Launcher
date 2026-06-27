@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-06-13",
+    "LastUpdated": "2026-06-27",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -669,6 +669,27 @@
                     "Engine": 3,
                     "Hash": "0YAQlXHtvFOyesYaWxksPFG+Z+2xAFukKCQZDFOez5k=N0ZiphDnXTSoM9h0pNvimQ==",
                     "Uploader": "Sirrianus Dagovax",
+                    "CommitMessage": ""
+                }
+            ]
+        },
+        {
+            "LastUpdate": "2026-06-27",
+            "ModFolder": "mve_rex",
+            "ModName": "",
+            "Engine": -1,
+            "Hash": "",
+            "Uploader": "",
+            "Validated": false,
+            "Notified": false,
+            "CommitMessage": "",
+            "PendingChanges": [
+                {
+                    "LastUpdate": "2026-06-27",
+                    "ModName": "conquest world",
+                    "Engine": 0,
+                    "Hash": "x3zB3o1XO5/Ms5rK3KQOt4vdweJpduKrhxTLNtNgpa0=HgLhXUkBQPlr72x4U5FLjw==",
+                    "Uploader": null,
                     "CommitMessage": ""
                 }
             ]
