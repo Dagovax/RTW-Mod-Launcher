@@ -696,7 +696,7 @@
         },
         {
             "LastUpdate": "2026-07-25",
-            "ModFolder": "WHTW",
+            "ModFolder": "REX",
             "ModName": "",
             "Engine": -1,
             "Hash": "",
@@ -707,9 +707,9 @@
             "PendingChanges": [
                 {
                     "LastUpdate": "2026-07-25",
-                    "ModName": "Warhammer - Total War",
+                    "ModName": "REX",
                     "Engine": 0,
-                    "Hash": "vAlHa52Xehwiq+X+FIG+lqC02bok+ku/QfNGMxlJJeQ=Zp+SmfHJci/AnywHMA6SwA==",
+                    "Hash": "9wDuHFwhsdSLpieaZOlT/bjTyp6jYDoI2xRQl1IXjLs=IAM8vchM87tT16Lo9lgT1Q==",
                     "Uploader": null,
                     "CommitMessage": ""
                 }
