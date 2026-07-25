@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-06-27",
+    "LastUpdated": "2026-07-25",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -690,6 +690,27 @@
                     "Engine": 0,
                     "Hash": "x3zB3o1XO5/Ms5rK3KQOt4vdweJpduKrhxTLNtNgpa0=HgLhXUkBQPlr72x4U5FLjw==",
                     "Uploader": "Unknown",
+                    "CommitMessage": ""
+                }
+            ]
+        },
+        {
+            "LastUpdate": "2026-07-25",
+            "ModFolder": "WHTW",
+            "ModName": "",
+            "Engine": -1,
+            "Hash": "",
+            "Uploader": "",
+            "Validated": false,
+            "Notified": false,
+            "CommitMessage": "",
+            "PendingChanges": [
+                {
+                    "LastUpdate": "2026-07-25",
+                    "ModName": "Warhammer - Total War",
+                    "Engine": 0,
+                    "Hash": "vAlHa52Xehwiq+X+FIG+lqC02bok+ku/QfNGMxlJJeQ=Zp+SmfHJci/AnywHMA6SwA==",
+                    "Uploader": null,
                     "CommitMessage": ""
                 }
             ]
