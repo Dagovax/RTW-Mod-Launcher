@@ -714,6 +714,27 @@
                     "CommitMessage": ""
                 }
             ]
+        },
+        {
+            "LastUpdate": "2026-07-25",
+            "ModFolder": "WHTW",
+            "ModName": "",
+            "Engine": -1,
+            "Hash": "",
+            "Uploader": "",
+            "Validated": false,
+            "Notified": false,
+            "CommitMessage": "",
+            "PendingChanges": [
+                {
+                    "LastUpdate": "2026-07-25",
+                    "ModName": "Warhammer - Total War",
+                    "Engine": 0,
+                    "Hash": "1E7P18Syd+pf203TYWcH+Mh8GrxzgEGior6mM+1/G/A=8f/ekGrC9NNhCq7Va1v7Ew==",
+                    "Uploader": null,
+                    "CommitMessage": ""
+                }
+            ]
         }
     ]
 }
