@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-08-12",
+    "LastUpdated": "2026-10-06",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -752,6 +752,27 @@
                     "ModName": "123",
                     "Engine": 4,
                     "Hash": "oXYQ4akD8j7kTJMtPYm6vrsnXiYb9tWuyOZOkQrRYPo=fDhFCHScKtd9GdPE5q3ZUg==",
+                    "Uploader": null,
+                    "CommitMessage": ""
+                }
+            ]
+        },
+        {
+            "LastUpdate": "2026-10-06",
+            "ModFolder": "xgm",
+            "ModName": "",
+            "Engine": -1,
+            "Hash": "",
+            "Uploader": "",
+            "Validated": false,
+            "Notified": false,
+            "CommitMessage": "",
+            "PendingChanges": [
+                {
+                    "LastUpdate": "2026-10-06",
+                    "ModName": "XGM",
+                    "Engine": 1,
+                    "Hash": "Bgl5Ce10klI3Hx9Ju2QT+Xnhzw+0dqArZPv7PK+SVg8=J7K+Tmcy15Jv1E6jBsUS0w==",
                     "Uploader": null,
                     "CommitMessage": ""
                 }
