@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-10-06",
+    "LastUpdated": "2026-10-10",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -774,6 +774,27 @@
                     "Engine": 1,
                     "Hash": "Bgl5Ce10klI3Hx9Ju2QT+Xnhzw+0dqArZPv7PK+SVg8=J7K+Tmcy15Jv1E6jBsUS0w==",
                     "Uploader": null,
+                    "CommitMessage": ""
+                }
+            ]
+        },
+        {
+            "LastUpdate": "2026-10-10",
+            "ModFolder": "xc5.0",
+            "ModName": "",
+            "Engine": -1,
+            "Hash": "",
+            "Uploader": "",
+            "Validated": false,
+            "Notified": false,
+            "CommitMessage": "",
+            "PendingChanges": [
+                {
+                    "LastUpdate": "2026-10-10",
+                    "ModName": "Extended Cultures",
+                    "Engine": 1,
+                    "Hash": "8N6f2Wz/uzn5lPal1sMSptHP78M+T9pbFSay6ReFpSI=+E+CmJk6jXeJHkm8HufFSA==",
+                    "Uploader": "CheriSh21",
                     "CommitMessage": ""
                 }
             ]
