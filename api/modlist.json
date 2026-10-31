@@ -1,5 +1,5 @@
 {
-    "LastUpdated": "2026-10-10",
+    "LastUpdated": "2026-10-31",
     "Mods": [
         {
             "ModFolder": "1942",
@@ -655,23 +655,14 @@
         {
             "LastUpdate": "2026-06-13",
             "ModFolder": "xc5",
-            "ModName": "",
-            "Engine": -1,
-            "Hash": "",
-            "Uploader": "",
-            "Validated": false,
+            "ModName": "Extented Cultures V",
+            "Engine": 3,
+            "Hash": "0YAQlXHtvFOyesYaWxksPFG+Z+2xAFukKCQZDFOez5k=N0ZiphDnXTSoM9h0pNvimQ==",
+            "Uploader": "Sirrianus Dagovax",
+            "Validated": true,
             "Notified": false,
             "CommitMessage": "",
-            "PendingChanges": [
-                {
-                    "LastUpdate": "2026-06-13",
-                    "ModName": "Extented Cultures V",
-                    "Engine": 3,
-                    "Hash": "0YAQlXHtvFOyesYaWxksPFG+Z+2xAFukKCQZDFOez5k=N0ZiphDnXTSoM9h0pNvimQ==",
-                    "Uploader": "Sirrianus Dagovax",
-                    "CommitMessage": ""
-                }
-            ]
+            "PendingChanges": []
         },
         {
             "LastUpdate": "2026-06-27",
